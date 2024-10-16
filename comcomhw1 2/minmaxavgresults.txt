@@ -1,0 +1,467 @@
+Minimum Ping Values (IP and Session-based):
+            IP Session  PingValue
+ 104.17.157.36 evening      14.80
+ 104.17.157.36 morning      17.97
+ 104.17.157.36    noon      14.52
+ 141.101.90.96 evening     113.46
+ 141.101.90.96 morning     116.91
+ 141.101.90.96    noon      98.61
+  160.75.25.62 evening      11.88
+  160.75.25.62 morning      16.06
+  160.75.25.62    noon      12.09
+185.104.182.64 evening     708.15
+185.104.182.64 morning     705.10
+185.104.182.64    noon     754.24
+185.18.139.126 evening     122.87
+185.18.139.126 morning     120.18
+185.18.139.126    noon     123.18
+ 185.45.67.130 evening      45.55
+ 185.45.67.130 morning      48.87
+ 185.45.67.130    noon      42.83
+ 195.72.120.33 evening     123.98
+ 195.72.120.33 morning     125.25
+ 195.72.120.33    noon     124.67
+  23.227.38.74 evening      15.48
+  23.227.38.74 morning      16.64
+  23.227.38.74    noon      13.61
+  79.139.60.97 evening      58.05
+  79.139.60.97 morning      56.09
+  79.139.60.97    noon      51.69
+  85.239.69.14 evening     311.18
+  85.239.69.14 morning     330.58
+  85.239.69.14    noon     317.18
+
+Average Ping Values (IP and Session-based):
+            IP Session  PingValue
+ 104.17.157.36 evening   26.89775
+ 104.17.157.36 morning   27.59725
+ 104.17.157.36    noon   26.79625
+ 141.101.90.96 evening  125.25300
+ 141.101.90.96 morning  127.51050
+ 141.101.90.96    noon  125.88475
+  160.75.25.62 evening   28.53125
+  160.75.25.62 morning   44.01450
+  160.75.25.62    noon   23.71975
+185.104.182.64 evening  880.37225
+185.104.182.64 morning  905.30550
+185.104.182.64    noon  957.38775
+185.18.139.126 evening  140.56250
+185.18.139.126 morning  145.81625
+185.18.139.126    noon  139.44375
+ 185.45.67.130 evening   57.01150
+ 185.45.67.130 morning   55.21775
+ 185.45.67.130    noon   63.15375
+ 195.72.120.33 evening  135.58800
+ 195.72.120.33 morning  144.53825
+ 195.72.120.33    noon  138.16300
+  23.227.38.74 evening   22.54125
+  23.227.38.74 morning   29.37800
+  23.227.38.74    noon   23.46575
+  79.139.60.97 evening   66.44275
+  79.139.60.97 morning   75.13200
+  79.139.60.97    noon   94.26875
+  85.239.69.14 evening  400.97875
+  85.239.69.14 morning  502.07725
+  85.239.69.14    noon  484.68275
+
+Maximum Ping Values (IP and Session-based):
+            IP Session  PingValue
+ 104.17.157.36 evening     159.68
+ 104.17.157.36 morning      45.60
+ 104.17.157.36    noon     156.78
+ 141.101.90.96 evening     154.83
+ 141.101.90.96 morning     154.72
+ 141.101.90.96    noon     315.37
+  160.75.25.62 evening     262.77
+  160.75.25.62 morning     825.72
+  160.75.25.62    noon      89.99
+185.104.182.64 evening    1455.01
+185.104.182.64 morning    1253.82
+185.104.182.64    noon    2298.71
+185.18.139.126 evening     405.46
+185.18.139.126 morning     338.05
+185.18.139.126    noon     356.45
+ 185.45.67.130 evening     251.89
+ 185.45.67.130 morning     114.25
+ 185.45.67.130    noon     328.54
+ 195.72.120.33 evening     350.27
+ 195.72.120.33 morning     431.43
+ 195.72.120.33    noon     333.34
+  23.227.38.74 evening      29.49
+  23.227.38.74 morning     163.31
+  23.227.38.74    noon      69.94
+  79.139.60.97 evening      99.24
+  79.139.60.97 morning     105.77
+  79.139.60.97    noon    1118.21
+  85.239.69.14 evening     692.11
+  85.239.69.14 morning    1556.31
+  85.239.69.14    noon     999.51
+
+Daily Minimum Ping Values (Day, Session, and IP-based):
+  Weekday Session             IP  PingValue
+   Friday evening  104.17.157.36      20.45
+   Friday evening  141.101.90.96     118.52
+   Friday evening   160.75.25.62      20.48
+   Friday evening 185.104.182.64     726.93
+   Friday evening 185.18.139.126     128.27
+   Friday evening  185.45.67.130      50.43
+   Friday evening  195.72.120.33     126.37
+   Friday evening   23.227.38.74      19.16
+   Friday evening   79.139.60.97      60.72
+   Friday evening   85.239.69.14     313.74
+   Friday morning  104.17.157.36      24.42
+   Friday morning  141.101.90.96     122.38
+   Friday morning   160.75.25.62      18.30
+   Friday morning 185.104.182.64     807.13
+   Friday morning 185.18.139.126     131.50
+   Friday morning  185.45.67.130      48.87
+   Friday morning  195.72.120.33     128.53
+   Friday morning   23.227.38.74      22.86
+   Friday morning   79.139.60.97      59.58
+   Friday morning   85.239.69.14     338.48
+   Friday    noon  104.17.157.36      22.13
+   Friday    noon  141.101.90.96     119.85
+   Friday    noon   160.75.25.62      16.50
+   Friday    noon 185.104.182.64     786.68
+   Friday    noon 185.18.139.126     130.24
+   Friday    noon  185.45.67.130      49.13
+   Friday    noon  195.72.120.33     127.49
+   Friday    noon   23.227.38.74      21.13
+   Friday    noon   79.139.60.97      58.89
+   Friday    noon   85.239.69.14     343.05
+ Saturday evening  104.17.157.36      14.80
+ Saturday evening  141.101.90.96     116.81
+ Saturday evening   160.75.25.62      11.88
+ Saturday evening 185.104.182.64     758.88
+ Saturday evening 185.18.139.126     122.87
+ Saturday evening  185.45.67.130      45.55
+ Saturday evening  195.72.120.33     123.98
+ Saturday evening   23.227.38.74      15.48
+ Saturday evening   79.139.60.97      58.05
+ Saturday evening   85.239.69.14     311.18
+ Saturday morning  104.17.157.36      19.46
+ Saturday morning  141.101.90.96     121.54
+ Saturday morning   160.75.25.62      17.01
+ Saturday morning 185.104.182.64     799.23
+ Saturday morning 185.18.139.126     120.18
+ Saturday morning  185.45.67.130      49.39
+ Saturday morning  195.72.120.33     130.31
+ Saturday morning   23.227.38.74      19.81
+ Saturday morning   79.139.60.97      61.00
+ Saturday morning   85.239.69.14     330.58
+ Saturday    noon  104.17.157.36      14.52
+ Saturday    noon  141.101.90.96     116.48
+ Saturday    noon   160.75.25.62      12.09
+ Saturday    noon 185.104.182.64     767.87
+ Saturday    noon 185.18.139.126     123.18
+ Saturday    noon  185.45.67.130      42.83
+ Saturday    noon  195.72.120.33     126.71
+ Saturday    noon   23.227.38.74      13.61
+ Saturday    noon   79.139.60.97      56.77
+ Saturday    noon   85.239.69.14     317.18
+ Thursday evening  104.17.157.36      21.91
+ Thursday evening  141.101.90.96     120.19
+ Thursday evening   160.75.25.62      17.62
+ Thursday evening 185.104.182.64     795.17
+ Thursday evening 185.18.139.126     130.85
+ Thursday evening  185.45.67.130      50.79
+ Thursday evening  195.72.120.33     129.52
+ Thursday evening   23.227.38.74      19.46
+ Thursday evening   79.139.60.97      61.33
+ Thursday evening   85.239.69.14     356.28
+ Thursday morning  104.17.157.36      22.28
+ Thursday morning  141.101.90.96     124.02
+ Thursday morning   160.75.25.62      21.25
+ Thursday morning 185.104.182.64     840.80
+ Thursday morning 185.18.139.126     132.20
+ Thursday morning  185.45.67.130      52.41
+ Thursday morning  195.72.120.33     130.22
+ Thursday morning   23.227.38.74      22.30
+ Thursday morning   79.139.60.97      93.51
+ Thursday morning   85.239.69.14     382.84
+ Thursday    noon  104.17.157.36      15.54
+ Thursday    noon  141.101.90.96     116.45
+ Thursday    noon   160.75.25.62      16.98
+ Thursday    noon 185.104.182.64     754.24
+ Thursday    noon 185.18.139.126     123.47
+ Thursday    noon  185.45.67.130      46.21
+ Thursday    noon  195.72.120.33     124.67
+ Thursday    noon   23.227.38.74      15.83
+ Thursday    noon   79.139.60.97      58.90
+ Thursday    noon   85.239.69.14     338.05
+Wednesday evening  104.17.157.36      22.61
+Wednesday evening  141.101.90.96     113.46
+Wednesday evening   160.75.25.62      21.30
+Wednesday evening 185.104.182.64     708.15
+Wednesday evening 185.18.139.126     130.60
+Wednesday evening  185.45.67.130      50.77
+Wednesday evening  195.72.120.33     128.63
+Wednesday evening   23.227.38.74      21.87
+Wednesday evening   79.139.60.97      60.33
+Wednesday evening   85.239.69.14     344.32
+Wednesday morning  104.17.157.36      17.97
+Wednesday morning  141.101.90.96     116.91
+Wednesday morning   160.75.25.62      16.06
+Wednesday morning 185.104.182.64     705.10
+Wednesday morning 185.18.139.126     128.58
+Wednesday morning  185.45.67.130      49.14
+Wednesday morning  195.72.120.33     125.25
+Wednesday morning   23.227.38.74      16.64
+Wednesday morning   79.139.60.97      56.09
+Wednesday morning   85.239.69.14     339.12
+Wednesday    noon  104.17.157.36      19.46
+Wednesday    noon  141.101.90.96      98.61
+Wednesday    noon   160.75.25.62      18.11
+Wednesday    noon 185.104.182.64     817.73
+Wednesday    noon 185.18.139.126     126.58
+Wednesday    noon  185.45.67.130      51.80
+Wednesday    noon  195.72.120.33     129.86
+Wednesday    noon   23.227.38.74      20.92
+Wednesday    noon   79.139.60.97      51.69
+Wednesday    noon   85.239.69.14     335.91
+
+Daily Average Ping Values (Day, Session, and IP-based):
+  Weekday Session             IP  PingValue
+   Friday evening  104.17.157.36     23.040
+   Friday evening  141.101.90.96    128.157
+   Friday evening   160.75.25.62     25.117
+   Friday evening 185.104.182.64    873.995
+   Friday evening 185.18.139.126    135.583
+   Friday evening  185.45.67.130     55.056
+   Friday evening  195.72.120.33    129.725
+   Friday evening   23.227.38.74     21.565
+   Friday evening   79.139.60.97     64.742
+   Friday evening   85.239.69.14    403.592
+   Friday morning  104.17.157.36     30.739
+   Friday morning  141.101.90.96    129.127
+   Friday morning   160.75.25.62     23.360
+   Friday morning 185.104.182.64    942.701
+   Friday morning 185.18.139.126    142.916
+   Friday morning  185.45.67.130     51.916
+   Friday morning  195.72.120.33    131.247
+   Friday morning   23.227.38.74     27.999
+   Friday morning   79.139.60.97     65.113
+   Friday morning   85.239.69.14    532.951
+   Friday    noon  104.17.157.36     36.675
+   Friday    noon  141.101.90.96    144.760
+   Friday    noon   160.75.25.62     22.546
+   Friday    noon 185.104.182.64    891.657
+   Friday    noon 185.18.139.126    158.573
+   Friday    noon  185.45.67.130     57.610
+   Friday    noon  195.72.120.33    150.769
+   Friday    noon   23.227.38.74     22.278
+   Friday    noon   79.139.60.97    169.970
+   Friday    noon   85.239.69.14    458.376
+ Saturday evening  104.17.157.36     16.830
+ Saturday evening  141.101.90.96    121.930
+ Saturday evening   160.75.25.62     13.510
+ Saturday evening 185.104.182.64    881.613
+ Saturday evening 185.18.139.126    128.163
+ Saturday evening  185.45.67.130     46.851
+ Saturday evening  195.72.120.33    126.716
+ Saturday evening   23.227.38.74     16.726
+ Saturday evening   79.139.60.97     64.859
+ Saturday evening   85.239.69.14    348.019
+ Saturday morning  104.17.157.36     27.376
+ Saturday morning  141.101.90.96    128.607
+ Saturday morning   160.75.25.62    102.521
+ Saturday morning 185.104.182.64    887.034
+ Saturday morning 185.18.139.126    137.043
+ Saturday morning  185.45.67.130     54.179
+ Saturday morning  195.72.120.33    135.050
+ Saturday morning   23.227.38.74     26.009
+ Saturday morning   79.139.60.97     69.599
+ Saturday morning   85.239.69.14    518.273
+ Saturday    noon  104.17.157.36     17.650
+ Saturday    noon  141.101.90.96    122.142
+ Saturday    noon   160.75.25.62     15.990
+ Saturday    noon 185.104.182.64    857.569
+ Saturday    noon 185.18.139.126    131.839
+ Saturday    noon  185.45.67.130     46.935
+ Saturday    noon  195.72.120.33    130.042
+ Saturday    noon   23.227.38.74     15.510
+ Saturday    noon   79.139.60.97     68.990
+ Saturday    noon   85.239.69.14    397.341
+ Thursday evening  104.17.157.36     40.452
+ Thursday evening  141.101.90.96    132.828
+ Thursday evening   160.75.25.62     50.080
+ Thursday evening 185.104.182.64    930.791
+ Thursday evening 185.18.139.126    161.125
+ Thursday evening  185.45.67.130     73.638
+ Thursday evening  195.72.120.33    152.881
+ Thursday evening   23.227.38.74     25.611
+ Thursday evening   79.139.60.97     69.662
+ Thursday evening   85.239.69.14    444.317
+ Thursday morning  104.17.157.36     29.927
+ Thursday morning  141.101.90.96    128.820
+ Thursday morning   160.75.25.62     28.122
+ Thursday morning 185.104.182.64    943.986
+ Thursday morning 185.18.139.126    140.834
+ Thursday morning  185.45.67.130     56.867
+ Thursday morning  195.72.120.33    134.071
+ Thursday morning   23.227.38.74     28.669
+ Thursday morning   79.139.60.97     96.995
+ Thursday morning   85.239.69.14    485.111
+ Thursday    noon  104.17.157.36     25.355
+ Thursday    noon  141.101.90.96    127.905
+ Thursday    noon   160.75.25.62     33.253
+ Thursday    noon 185.104.182.64   1139.898
+ Thursday    noon 185.18.139.126    135.155
+ Thursday    noon  185.45.67.130     92.670
+ Thursday    noon  195.72.120.33    138.776
+ Thursday    noon   23.227.38.74     25.857
+ Thursday    noon   79.139.60.97     83.109
+ Thursday    noon   85.239.69.14    589.944
+Wednesday evening  104.17.157.36     27.269
+Wednesday evening  141.101.90.96    118.097
+Wednesday evening   160.75.25.62     25.418
+Wednesday evening 185.104.182.64    835.090
+Wednesday evening 185.18.139.126    137.379
+Wednesday evening  185.45.67.130     52.501
+Wednesday evening  195.72.120.33    133.030
+Wednesday evening   23.227.38.74     26.263
+Wednesday evening   79.139.60.97     66.508
+Wednesday evening   85.239.69.14    407.987
+Wednesday morning  104.17.157.36     22.347
+Wednesday morning  141.101.90.96    123.488
+Wednesday morning   160.75.25.62     22.055
+Wednesday morning 185.104.182.64    847.501
+Wednesday morning 185.18.139.126    162.472
+Wednesday morning  185.45.67.130     57.909
+Wednesday morning  195.72.120.33    177.785
+Wednesday morning   23.227.38.74     34.835
+Wednesday morning   79.139.60.97     68.821
+Wednesday morning   85.239.69.14    471.974
+Wednesday    noon  104.17.157.36     27.505
+Wednesday    noon  141.101.90.96    108.732
+Wednesday    noon   160.75.25.62     23.090
+Wednesday    noon 185.104.182.64    940.427
+Wednesday    noon 185.18.139.126    132.208
+Wednesday    noon  185.45.67.130     55.400
+Wednesday    noon  195.72.120.33    133.065
+Wednesday    noon   23.227.38.74     30.218
+Wednesday    noon   79.139.60.97     55.006
+Wednesday    noon   85.239.69.14    493.070
+
+Daily Maximum Ping Values (Day, Session, and IP-based):
+  Weekday Session             IP  PingValue
+   Friday evening  104.17.157.36      27.81
+   Friday evening  141.101.90.96     134.31
+   Friday evening   160.75.25.62      28.31
+   Friday evening 185.104.182.64    1288.55
+   Friday evening 185.18.139.126     143.68
+   Friday evening  185.45.67.130      88.46
+   Friday evening  195.72.120.33     133.63
+   Friday evening   23.227.38.74      23.54
+   Friday evening   79.139.60.97      71.30
+   Friday evening   85.239.69.14     692.11
+   Friday morning  104.17.157.36      45.60
+   Friday morning  141.101.90.96     137.67
+   Friday morning   160.75.25.62      29.65
+   Friday morning 185.104.182.64    1212.25
+   Friday morning 185.18.139.126     182.86
+   Friday morning  185.45.67.130      53.76
+   Friday morning  195.72.120.33     135.55
+   Friday morning   23.227.38.74      34.26
+   Friday morning   79.139.60.97      71.69
+   Friday morning   85.239.69.14    1556.31
+   Friday    noon  104.17.157.36     156.78
+   Friday    noon  141.101.90.96     315.37
+   Friday    noon   160.75.25.62      28.27
+   Friday    noon 185.104.182.64    1192.71
+   Friday    noon 185.18.139.126     356.45
+   Friday    noon  185.45.67.130      78.32
+   Friday    noon  195.72.120.33     333.34
+   Friday    noon   23.227.38.74      23.35
+   Friday    noon   79.139.60.97    1118.21
+   Friday    noon   85.239.69.14     897.39
+ Saturday evening  104.17.157.36      18.58
+ Saturday evening  141.101.90.96     132.43
+ Saturday evening   160.75.25.62      16.33
+ Saturday evening 185.104.182.64    1326.09
+ Saturday evening 185.18.139.126     132.80
+ Saturday evening  185.45.67.130      49.20
+ Saturday evening  195.72.120.33     130.35
+ Saturday evening   23.227.38.74      19.09
+ Saturday evening   79.139.60.97      69.02
+ Saturday evening   85.239.69.14     550.43
+ Saturday morning  104.17.157.36      39.12
+ Saturday morning  141.101.90.96     139.11
+ Saturday morning   160.75.25.62     825.72
+ Saturday morning 185.104.182.64    1169.66
+ Saturday morning 185.18.139.126     168.78
+ Saturday morning  185.45.67.130      63.94
+ Saturday morning  195.72.120.33     139.24
+ Saturday morning   23.227.38.74      32.62
+ Saturday morning   79.139.60.97      84.78
+ Saturday morning   85.239.69.14    1065.56
+ Saturday    noon  104.17.157.36      21.00
+ Saturday    noon  141.101.90.96     140.79
+ Saturday    noon   160.75.25.62      18.76
+ Saturday    noon 185.104.182.64    1129.64
+ Saturday    noon 185.18.139.126     147.03
+ Saturday    noon  185.45.67.130      50.71
+ Saturday    noon  195.72.120.33     142.69
+ Saturday    noon   23.227.38.74      17.14
+ Saturday    noon   79.139.60.97     116.35
+ Saturday    noon   85.239.69.14     614.10
+ Thursday evening  104.17.157.36     159.68
+ Thursday evening  141.101.90.96     154.83
+ Thursday evening   160.75.25.62     262.77
+ Thursday evening 185.104.182.64    1455.01
+ Thursday evening 185.18.139.126     405.46
+ Thursday evening  185.45.67.130     251.89
+ Thursday evening  195.72.120.33     350.27
+ Thursday evening   23.227.38.74      29.35
+ Thursday evening   79.139.60.97      99.24
+ Thursday evening   85.239.69.14     650.19
+ Thursday morning  104.17.157.36      39.28
+ Thursday morning  141.101.90.96     132.81
+ Thursday morning   160.75.25.62      42.84
+ Thursday morning 185.104.182.64    1133.26
+ Thursday morning 185.18.139.126     146.95
+ Thursday morning  185.45.67.130      88.82
+ Thursday morning  195.72.120.33     138.83
+ Thursday morning   23.227.38.74      43.45
+ Thursday morning   79.139.60.97     105.77
+ Thursday morning   85.239.69.14     768.68
+ Thursday    noon  104.17.157.36      73.45
+ Thursday    noon  141.101.90.96     155.60
+ Thursday    noon   160.75.25.62      89.99
+ Thursday    noon 185.104.182.64    2298.71
+ Thursday    noon 185.18.139.126     161.18
+ Thursday    noon  185.45.67.130     328.54
+ Thursday    noon  195.72.120.33     170.43
+ Thursday    noon   23.227.38.74      55.51
+ Thursday    noon   79.139.60.97     137.13
+ Thursday    noon   85.239.69.14     994.23
+Wednesday evening  104.17.157.36      30.97
+Wednesday evening  141.101.90.96     126.98
+Wednesday evening   160.75.25.62      32.68
+Wednesday evening 185.104.182.64     937.77
+Wednesday evening 185.18.139.126     148.92
+Wednesday evening  185.45.67.130      54.84
+Wednesday evening  195.72.120.33     144.72
+Wednesday evening   23.227.38.74      29.49
+Wednesday evening   79.139.60.97      73.32
+Wednesday evening   85.239.69.14     518.02
+Wednesday morning  104.17.157.36      43.99
+Wednesday morning  141.101.90.96     154.72
+Wednesday morning   160.75.25.62      32.80
+Wednesday morning 185.104.182.64    1253.82
+Wednesday morning 185.18.139.126     338.05
+Wednesday morning  185.45.67.130     114.25
+Wednesday morning  195.72.120.33     431.43
+Wednesday morning   23.227.38.74     163.31
+Wednesday morning   79.139.60.97      91.20
+Wednesday morning   85.239.69.14     705.79
+Wednesday    noon  104.17.157.36      47.88
+Wednesday    noon  141.101.90.96     139.12
+Wednesday    noon   160.75.25.62      28.63
+Wednesday    noon 185.104.182.64    1380.74
+Wednesday    noon 185.18.139.126     143.69
+Wednesday    noon  185.45.67.130      75.88
+Wednesday    noon  195.72.120.33     137.65
+Wednesday    noon   23.227.38.74      69.94
+Wednesday    noon   79.139.60.97      62.35
+Wednesday    noon   85.239.69.14     999.51

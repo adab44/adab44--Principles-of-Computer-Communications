@@ -1,0 +1,1441 @@
+ ----   2024-10-09 08:40:37 ---- 
+ 160.75.25.62 is reachable, taken time: 32.80 ms
+ 185.45.67.130 is reachable, taken time: 51.82 ms
+ 185.104.182.64 is reachable, taken time: 1253.82 ms
+ 79.139.60.97 is reachable, taken time: 59.62 ms
+ 85.239.69.14 is reachable, taken time: 567.71 ms
+ 141.101.90.96 is reachable, taken time: 120.65 ms
+ 195.72.120.33 is reachable, taken time: 289.78 ms
+ 185.18.139.126 is reachable, taken time: 338.05 ms
+ 104.17.157.36 is reachable, taken time: 19.12 ms
+ 23.227.38.74 is reachable, taken time: 163.31 ms
+
+ ----   2024-10-09 08:42:08 ---- 
+ 160.75.25.62 is reachable, taken time: 19.72 ms
+ 185.45.67.130 is reachable, taken time: 53.62 ms
+ 185.104.182.64 is reachable, taken time: 705.10 ms
+ 79.139.60.97 is reachable, taken time: 69.26 ms
+ 85.239.69.14 is reachable, taken time: 354.91 ms
+ 141.101.90.96 is reachable, taken time: 119.61 ms
+ 195.72.120.33 is reachable, taken time: 131.98 ms
+ 185.18.139.126 is reachable, taken time: 132.74 ms
+ 104.17.157.36 is reachable, taken time: 18.76 ms
+ 23.227.38.74 is reachable, taken time: 18.71 ms
+
+ ----   2024-10-09 08:44:08 ---- 
+ 160.75.25.62 is reachable, taken time: 18.73 ms
+ 185.45.67.130 is reachable, taken time: 51.19 ms
+ 185.104.182.64 is reachable, taken time: 739.23 ms
+ 79.139.60.97 is reachable, taken time: 70.43 ms
+ 85.239.69.14 is reachable, taken time: 339.12 ms
+ 141.101.90.96 is reachable, taken time: 117.51 ms
+ 195.72.120.33 is reachable, taken time: 129.26 ms
+ 185.18.139.126 is reachable, taken time: 134.23 ms
+ 104.17.157.36 is reachable, taken time: 21.30 ms
+ 23.227.38.74 is reachable, taken time: 16.64 ms
+
+ ----   2024-10-09 08:46:13 ---- 
+ 160.75.25.62 is reachable, taken time: 16.06 ms
+ 185.45.67.130 is reachable, taken time: 49.14 ms
+ 185.104.182.64 is reachable, taken time: 819.09 ms
+ 79.139.60.97 is reachable, taken time: 56.69 ms
+ 85.239.69.14 is reachable, taken time: 465.05 ms
+ 141.101.90.96 is reachable, taken time: 118.80 ms
+ 195.72.120.33 is reachable, taken time: 130.79 ms
+ 185.18.139.126 is reachable, taken time: 133.42 ms
+ 104.17.157.36 is reachable, taken time: 25.30 ms
+ 23.227.38.74 is reachable, taken time: 19.22 ms
+
+ ----   2024-10-09 08:48:04 ---- 
+ 160.75.25.62 is reachable, taken time: 17.92 ms
+ 185.45.67.130 is reachable, taken time: 53.60 ms
+ 185.104.182.64 is reachable, taken time: 825.15 ms
+ 79.139.60.97 is reachable, taken time: 63.12 ms
+ 85.239.69.14 is reachable, taken time: 705.79 ms
+ 141.101.90.96 is reachable, taken time: 116.91 ms
+ 195.72.120.33 is reachable, taken time: 125.25 ms
+ 185.18.139.126 is reachable, taken time: 158.51 ms
+ 104.17.157.36 is reachable, taken time: 18.39 ms
+ 23.227.38.74 is reachable, taken time: 24.19 ms
+
+ ----   2024-10-09 08:50:26 ---- 
+ 160.75.25.62 is reachable, taken time: 24.26 ms
+ 185.45.67.130 is reachable, taken time: 54.72 ms
+ 185.104.182.64 is reachable, taken time: 851.74 ms
+ 79.139.60.97 is reachable, taken time: 69.00 ms
+ 85.239.69.14 is reachable, taken time: 345.91 ms
+ 141.101.90.96 is reachable, taken time: 129.72 ms
+ 195.72.120.33 is reachable, taken time: 139.58 ms
+ 185.18.139.126 is reachable, taken time: 133.04 ms
+ 104.17.157.36 is reachable, taken time: 43.99 ms
+ 23.227.38.74 is reachable, taken time: 22.31 ms
+
+ ----   2024-10-09 08:52:26 ---- 
+ 160.75.25.62 is reachable, taken time: 20.24 ms
+ 185.45.67.130 is reachable, taken time: 114.25 ms
+ 185.104.182.64 is reachable, taken time: 805.25 ms
+ 79.139.60.97 is reachable, taken time: 84.66 ms
+ 85.239.69.14 is reachable, taken time: 604.77 ms
+ 141.101.90.96 is reachable, taken time: 154.72 ms
+ 195.72.120.33 is reachable, taken time: 144.12 ms
+ 185.18.139.126 is reachable, taken time: 203.85 ms
+ 104.17.157.36 is reachable, taken time: 18.46 ms
+ 23.227.38.74 is reachable, taken time: 20.78 ms
+
+ ----   2024-10-09 08:54:09 ---- 
+ 160.75.25.62 is reachable, taken time: 22.97 ms
+ 185.45.67.130 is reachable, taken time: 49.76 ms
+ 185.104.182.64 is reachable, taken time: 868.87 ms
+ 79.139.60.97 is reachable, taken time: 91.20 ms
+ 85.239.69.14 is reachable, taken time: 533.34 ms
+ 141.101.90.96 is reachable, taken time: 119.12 ms
+ 195.72.120.33 is reachable, taken time: 129.68 ms
+ 185.18.139.126 is reachable, taken time: 133.08 ms
+ 104.17.157.36 is reachable, taken time: 20.17 ms
+ 23.227.38.74 is reachable, taken time: 23.49 ms
+
+ ----   2024-10-09 08:56:31 ---- 
+ 160.75.25.62 is reachable, taken time: 19.07 ms
+ 185.45.67.130 is reachable, taken time: 50.04 ms
+ 185.104.182.64 is reachable, taken time: 849.55 ms
+ 79.139.60.97 is reachable, taken time: 68.14 ms
+ 85.239.69.14 is reachable, taken time: 347.49 ms
+ 141.101.90.96 is reachable, taken time: 117.99 ms
+ 195.72.120.33 is reachable, taken time: 431.43 ms
+ 185.18.139.126 is reachable, taken time: 129.22 ms
+ 104.17.157.36 is reachable, taken time: 20.01 ms
+ 23.227.38.74 is reachable, taken time: 20.31 ms
+
+ ----   2024-10-09 08:58:05 ---- 
+ 160.75.25.62 is reachable, taken time: 28.78 ms
+ 185.45.67.130 is reachable, taken time: 50.95 ms
+ 185.104.182.64 is reachable, taken time: 757.21 ms
+ 79.139.60.97 is reachable, taken time: 56.09 ms
+ 85.239.69.14 is reachable, taken time: 455.65 ms
+ 141.101.90.96 is reachable, taken time: 119.85 ms
+ 195.72.120.33 is reachable, taken time: 125.98 ms
+ 185.18.139.126 is reachable, taken time: 128.58 ms
+ 104.17.157.36 is reachable, taken time: 17.97 ms
+ 23.227.38.74 is reachable, taken time: 19.39 ms
+
+ ----   2024-10-09 14:02:30 ---- 
+ 160.75.25.62 is reachable, taken time: 22.61 ms
+ 185.45.67.130 is reachable, taken time: 54.38 ms
+ 185.104.182.64 is reachable, taken time: 1380.74 ms
+ 79.139.60.97 is reachable, taken time: 56.37 ms
+ 85.239.69.14 is reachable, taken time: 482.81 ms
+ 141.101.90.96 is reachable, taken time: 104.19 ms
+ 195.72.120.33 is reachable, taken time: 134.33 ms
+ 185.18.139.126 is reachable, taken time: 143.69 ms
+ 104.17.157.36 is reachable, taken time: 29.59 ms
+ 23.227.38.74 is reachable, taken time: 35.03 ms
+
+ ----   2024-10-09 14:04:06 ---- 
+ 160.75.25.62 is reachable, taken time: 28.63 ms
+ 185.45.67.130 is reachable, taken time: 53.36 ms
+ 185.104.182.64 is reachable, taken time: 926.14 ms
+ 79.139.60.97 is reachable, taken time: 51.69 ms
+ 85.239.69.14 is reachable, taken time: 437.61 ms
+ 141.101.90.96 is reachable, taken time: 103.20 ms
+ 195.72.120.33 is reachable, taken time: 133.29 ms
+ 185.18.139.126 is reachable, taken time: 127.06 ms
+ 104.17.157.36 is reachable, taken time: 19.46 ms
+ 23.227.38.74 is reachable, taken time: 20.92 ms
+
+ ----   2024-10-09 14:06:09 ---- 
+ 160.75.25.62 is reachable, taken time: 21.75 ms
+ 185.45.67.130 is reachable, taken time: 52.55 ms
+ 185.104.182.64 is reachable, taken time: 849.87 ms
+ 79.139.60.97 is reachable, taken time: 51.86 ms
+ 85.239.69.14 is reachable, taken time: 335.91 ms
+ 141.101.90.96 is reachable, taken time: 128.41 ms
+ 195.72.120.33 is reachable, taken time: 132.27 ms
+ 185.18.139.126 is reachable, taken time: 134.60 ms
+ 104.17.157.36 is reachable, taken time: 27.35 ms
+ 23.227.38.74 is reachable, taken time: 28.32 ms
+
+ ----   2024-10-09 14:08:04 ---- 
+ 160.75.25.62 is reachable, taken time: 27.81 ms
+ 185.45.67.130 is reachable, taken time: 52.14 ms
+ 185.104.182.64 is reachable, taken time: 907.25 ms
+ 79.139.60.97 is reachable, taken time: 52.63 ms
+ 85.239.69.14 is reachable, taken time: 370.58 ms
+ 141.101.90.96 is reachable, taken time: 103.48 ms
+ 195.72.120.33 is reachable, taken time: 129.86 ms
+ 185.18.139.126 is reachable, taken time: 129.33 ms
+ 104.17.157.36 is reachable, taken time: 22.59 ms
+ 23.227.38.74 is reachable, taken time: 23.34 ms
+
+ ----   2024-10-09 14:10:09 ---- 
+ 160.75.25.62 is reachable, taken time: 20.43 ms
+ 185.45.67.130 is reachable, taken time: 51.91 ms
+ 185.104.182.64 is reachable, taken time: 909.96 ms
+ 79.139.60.97 is reachable, taken time: 51.74 ms
+ 85.239.69.14 is reachable, taken time: 572.05 ms
+ 141.101.90.96 is reachable, taken time: 106.57 ms
+ 195.72.120.33 is reachable, taken time: 137.65 ms
+ 185.18.139.126 is reachable, taken time: 126.58 ms
+ 104.17.157.36 is reachable, taken time: 21.60 ms
+ 23.227.38.74 is reachable, taken time: 21.87 ms
+
+ ----   2024-10-09 14:12:07 ---- 
+ 160.75.25.62 is reachable, taken time: 27.01 ms
+ 185.45.67.130 is reachable, taken time: 75.88 ms
+ 185.104.182.64 is reachable, taken time: 973.24 ms
+ 79.139.60.97 is reachable, taken time: 53.98 ms
+ 85.239.69.14 is reachable, taken time: 497.68 ms
+ 141.101.90.96 is reachable, taken time: 139.12 ms
+ 195.72.120.33 is reachable, taken time: 132.71 ms
+ 185.18.139.126 is reachable, taken time: 134.15 ms
+ 104.17.157.36 is reachable, taken time: 47.88 ms
+ 23.227.38.74 is reachable, taken time: 69.94 ms
+
+ ----   2024-10-09 14:14:07 ---- 
+ 160.75.25.62 is reachable, taken time: 20.65 ms
+ 185.45.67.130 is reachable, taken time: 51.80 ms
+ 185.104.182.64 is reachable, taken time: 857.39 ms
+ 79.139.60.97 is reachable, taken time: 57.61 ms
+ 85.239.69.14 is reachable, taken time: 341.55 ms
+ 141.101.90.96 is reachable, taken time: 102.20 ms
+ 195.72.120.33 is reachable, taken time: 130.61 ms
+ 185.18.139.126 is reachable, taken time: 129.78 ms
+ 104.17.157.36 is reachable, taken time: 25.05 ms
+ 23.227.38.74 is reachable, taken time: 25.19 ms
+
+ ----   2024-10-09 14:16:03 ---- 
+ 160.75.25.62 is reachable, taken time: 22.37 ms
+ 185.45.67.130 is reachable, taken time: 53.59 ms
+ 185.104.182.64 is reachable, taken time: 817.73 ms
+ 79.139.60.97 is reachable, taken time: 56.29 ms
+ 85.239.69.14 is reachable, taken time: 492.73 ms
+ 141.101.90.96 is reachable, taken time: 99.71 ms
+ 195.72.120.33 is reachable, taken time: 131.36 ms
+ 185.18.139.126 is reachable, taken time: 133.01 ms
+ 104.17.157.36 is reachable, taken time: 25.07 ms
+ 23.227.38.74 is reachable, taken time: 25.24 ms
+
+ ----   2024-10-09 14:18:06 ---- 
+ 160.75.25.62 is reachable, taken time: 21.53 ms
+ 185.45.67.130 is reachable, taken time: 52.92 ms
+ 185.104.182.64 is reachable, taken time: 832.97 ms
+ 79.139.60.97 is reachable, taken time: 55.54 ms
+ 85.239.69.14 is reachable, taken time: 400.27 ms
+ 141.101.90.96 is reachable, taken time: 101.83 ms
+ 195.72.120.33 is reachable, taken time: 131.75 ms
+ 185.18.139.126 is reachable, taken time: 136.23 ms
+ 104.17.157.36 is reachable, taken time: 24.29 ms
+ 23.227.38.74 is reachable, taken time: 27.73 ms
+
+ ----   2024-10-09 14:20:03 ---- 
+ 160.75.25.62 is reachable, taken time: 18.11 ms
+ 185.45.67.130 is reachable, taken time: 55.47 ms
+ 185.104.182.64 is reachable, taken time: 948.98 ms
+ 79.139.60.97 is reachable, taken time: 62.35 ms
+ 85.239.69.14 is reachable, taken time: 999.51 ms
+ 141.101.90.96 is reachable, taken time: 98.61 ms
+ 195.72.120.33 is reachable, taken time: 136.82 ms
+ 185.18.139.126 is reachable, taken time: 127.65 ms
+ 104.17.157.36 is reachable, taken time: 32.17 ms
+ 23.227.38.74 is reachable, taken time: 24.60 ms
+
+ ----   2024-10-09 20:32:33 ---- 
+ 160.75.25.62 is reachable, taken time: 21.30 ms
+ 185.45.67.130 is reachable, taken time: 51.87 ms
+ 185.104.182.64 is reachable, taken time: 937.77 ms
+ 79.139.60.97 is reachable, taken time: 69.21 ms
+ 85.239.69.14 is reachable, taken time: 518.02 ms
+ 141.101.90.96 is reachable, taken time: 113.46 ms
+ 195.72.120.33 is reachable, taken time: 128.63 ms
+ 185.18.139.126 is reachable, taken time: 130.60 ms
+ 104.17.157.36 is reachable, taken time: 22.61 ms
+ 23.227.38.74 is reachable, taken time: 23.97 ms
+
+ ----   2024-10-09 20:34:06 ---- 
+ 160.75.25.62 is reachable, taken time: 21.62 ms
+ 185.45.67.130 is reachable, taken time: 52.73 ms
+ 185.104.182.64 is reachable, taken time: 893.17 ms
+ 79.139.60.97 is reachable, taken time: 69.75 ms
+ 85.239.69.14 is reachable, taken time: 351.90 ms
+ 141.101.90.96 is reachable, taken time: 114.59 ms
+ 195.72.120.33 is reachable, taken time: 144.72 ms
+ 185.18.139.126 is reachable, taken time: 141.27 ms
+ 104.17.157.36 is reachable, taken time: 30.01 ms
+ 23.227.38.74 is reachable, taken time: 29.49 ms
+
+ ----   2024-10-09 20:36:05 ---- 
+ 160.75.25.62 is reachable, taken time: 23.36 ms
+ 185.45.67.130 is reachable, taken time: 50.77 ms
+ 185.104.182.64 is reachable, taken time: 871.40 ms
+ 79.139.60.97 is reachable, taken time: 63.39 ms
+ 85.239.69.14 is reachable, taken time: 369.27 ms
+ 141.101.90.96 is reachable, taken time: 121.70 ms
+ 195.72.120.33 is reachable, taken time: 130.43 ms
+ 185.18.139.126 is reachable, taken time: 148.92 ms
+ 104.17.157.36 is reachable, taken time: 29.27 ms
+ 23.227.38.74 is reachable, taken time: 28.45 ms
+
+ ----   2024-10-09 20:38:06 ---- 
+ 160.75.25.62 is reachable, taken time: 32.68 ms
+ 185.45.67.130 is reachable, taken time: 53.09 ms
+ 185.104.182.64 is reachable, taken time: 841.71 ms
+ 79.139.60.97 is reachable, taken time: 72.43 ms
+ 85.239.69.14 is reachable, taken time: 362.41 ms
+ 141.101.90.96 is reachable, taken time: 115.99 ms
+ 195.72.120.33 is reachable, taken time: 132.64 ms
+ 185.18.139.126 is reachable, taken time: 138.49 ms
+ 104.17.157.36 is reachable, taken time: 27.41 ms
+ 23.227.38.74 is reachable, taken time: 26.85 ms
+
+ ----   2024-10-09 20:40:06 ---- 
+ 160.75.25.62 is reachable, taken time: 29.51 ms
+ 185.45.67.130 is reachable, taken time: 52.68 ms
+ 185.104.182.64 is reachable, taken time: 772.64 ms
+ 79.139.60.97 is reachable, taken time: 66.66 ms
+ 85.239.69.14 is reachable, taken time: 514.65 ms
+ 141.101.90.96 is reachable, taken time: 114.61 ms
+ 195.72.120.33 is reachable, taken time: 132.22 ms
+ 185.18.139.126 is reachable, taken time: 131.08 ms
+ 104.17.157.36 is reachable, taken time: 26.34 ms
+ 23.227.38.74 is reachable, taken time: 24.99 ms
+
+ ----   2024-10-09 20:42:04 ---- 
+ 160.75.25.62 is reachable, taken time: 30.44 ms
+ 185.45.67.130 is reachable, taken time: 54.84 ms
+ 185.104.182.64 is reachable, taken time: 917.96 ms
+ 79.139.60.97 is reachable, taken time: 60.33 ms
+ 85.239.69.14 is reachable, taken time: 380.70 ms
+ 141.101.90.96 is reachable, taken time: 126.98 ms
+ 195.72.120.33 is reachable, taken time: 133.12 ms
+ 185.18.139.126 is reachable, taken time: 144.77 ms
+ 104.17.157.36 is reachable, taken time: 28.11 ms
+ 23.227.38.74 is reachable, taken time: 27.47 ms
+
+ ----   2024-10-09 20:44:15 ---- 
+ 160.75.25.62 is reachable, taken time: 22.54 ms
+ 185.45.67.130 is reachable, taken time: 52.24 ms
+ 185.104.182.64 is reachable, taken time: 708.15 ms
+ 79.139.60.97 is reachable, taken time: 63.72 ms
+ 85.239.69.14 is reachable, taken time: 390.20 ms
+ 141.101.90.96 is reachable, taken time: 122.33 ms
+ 195.72.120.33 is reachable, taken time: 133.94 ms
+ 185.18.139.126 is reachable, taken time: 134.26 ms
+ 104.17.157.36 is reachable, taken time: 29.65 ms
+ 23.227.38.74 is reachable, taken time: 29.04 ms
+
+ ----   2024-10-09 20:46:56 ---- 
+ 160.75.25.62 is reachable, taken time: 28.80 ms
+ 185.45.67.130 is reachable, taken time: 52.43 ms
+ 185.104.182.64 is reachable, taken time: 830.57 ms
+ 79.139.60.97 is reachable, taken time: 64.63 ms
+ 85.239.69.14 is reachable, taken time: 497.13 ms
+ 141.101.90.96 is reachable, taken time: 116.52 ms
+ 195.72.120.33 is reachable, taken time: 132.20 ms
+ 185.18.139.126 is reachable, taken time: 131.29 ms
+ 104.17.157.36 is reachable, taken time: 30.97 ms
+ 23.227.38.74 is reachable, taken time: 21.87 ms
+
+ ----   2024-10-09 20:48:02 ---- 
+ 160.75.25.62 is reachable, taken time: 21.53 ms
+ 185.45.67.130 is reachable, taken time: 52.71 ms
+ 185.104.182.64 is reachable, taken time: 792.84 ms
+ 79.139.60.97 is reachable, taken time: 61.64 ms
+ 85.239.69.14 is reachable, taken time: 351.27 ms
+ 141.101.90.96 is reachable, taken time: 119.77 ms
+ 195.72.120.33 is reachable, taken time: 130.95 ms
+ 185.18.139.126 is reachable, taken time: 141.72 ms
+ 104.17.157.36 is reachable, taken time: 23.04 ms
+ 23.227.38.74 is reachable, taken time: 22.04 ms
+
+ ----   2024-10-09 20:50:32 ---- 
+ 160.75.25.62 is reachable, taken time: 22.40 ms
+ 185.45.67.130 is reachable, taken time: 51.65 ms
+ 185.104.182.64 is reachable, taken time: 784.69 ms
+ 79.139.60.97 is reachable, taken time: 73.32 ms
+ 85.239.69.14 is reachable, taken time: 344.32 ms
+ 141.101.90.96 is reachable, taken time: 115.02 ms
+ 195.72.120.33 is reachable, taken time: 131.45 ms
+ 185.18.139.126 is reachable, taken time: 131.39 ms
+ 104.17.157.36 is reachable, taken time: 25.28 ms
+ 23.227.38.74 is reachable, taken time: 28.46 ms
+
+ ----   2024-10-10 08:48:12 ---- 
+ 160.75.25.62 is reachable, taken time: 22.21 ms
+ 185.45.67.130 is reachable, taken time: 54.53 ms
+ 185.104.182.64 is reachable, taken time: 1133.26 ms
+ 79.139.60.97 is reachable, taken time: 93.57 ms
+ 85.239.69.14 is reachable, taken time: 570.34 ms
+ 141.101.90.96 is reachable, taken time: 132.81 ms
+ 195.72.120.33 is reachable, taken time: 130.22 ms
+ 185.18.139.126 is reachable, taken time: 146.95 ms
+ 104.17.157.36 is reachable, taken time: 30.42 ms
+ 23.227.38.74 is reachable, taken time: 28.97 ms
+
+ ----   2024-10-10 08:50:07 ---- 
+ 160.75.25.62 is reachable, taken time: 24.42 ms
+ 185.45.67.130 is reachable, taken time: 53.04 ms
+ 185.104.182.64 is reachable, taken time: 982.23 ms
+ 79.139.60.97 is reachable, taken time: 105.77 ms
+ 85.239.69.14 is reachable, taken time: 404.71 ms
+ 141.101.90.96 is reachable, taken time: 127.85 ms
+ 195.72.120.33 is reachable, taken time: 133.63 ms
+ 185.18.139.126 is reachable, taken time: 135.55 ms
+ 104.17.157.36 is reachable, taken time: 25.61 ms
+ 23.227.38.74 is reachable, taken time: 25.40 ms
+
+ ----   2024-10-10 08:52:37 ---- 
+ 160.75.25.62 is reachable, taken time: 29.28 ms
+ 185.45.67.130 is reachable, taken time: 52.41 ms
+ 185.104.182.64 is reachable, taken time: 924.44 ms
+ 79.139.60.97 is reachable, taken time: 95.96 ms
+ 85.239.69.14 is reachable, taken time: 621.16 ms
+ 141.101.90.96 is reachable, taken time: 132.60 ms
+ 195.72.120.33 is reachable, taken time: 138.53 ms
+ 185.18.139.126 is reachable, taken time: 132.20 ms
+ 104.17.157.36 is reachable, taken time: 23.64 ms
+ 23.227.38.74 is reachable, taken time: 22.30 ms
+
+ ----   2024-10-10 08:54:27 ---- 
+ 160.75.25.62 is reachable, taken time: 26.12 ms
+ 185.45.67.130 is reachable, taken time: 52.84 ms
+ 185.104.182.64 is reachable, taken time: 948.47 ms
+ 79.139.60.97 is reachable, taken time: 98.02 ms
+ 85.239.69.14 is reachable, taken time: 406.15 ms
+ 141.101.90.96 is reachable, taken time: 128.80 ms
+ 195.72.120.33 is reachable, taken time: 133.14 ms
+ 185.18.139.126 is reachable, taken time: 138.13 ms
+ 104.17.157.36 is reachable, taken time: 29.99 ms
+ 23.227.38.74 is reachable, taken time: 25.33 ms
+
+ ----   2024-10-10 08:56:06 ---- 
+ 160.75.25.62 is reachable, taken time: 21.25 ms
+ 185.45.67.130 is reachable, taken time: 53.35 ms
+ 185.104.182.64 is reachable, taken time: 840.80 ms
+ 79.139.60.97 is reachable, taken time: 96.24 ms
+ 85.239.69.14 is reachable, taken time: 416.56 ms
+ 141.101.90.96 is reachable, taken time: 128.61 ms
+ 195.72.120.33 is reachable, taken time: 135.45 ms
+ 185.18.139.126 is reachable, taken time: 145.04 ms
+ 104.17.157.36 is reachable, taken time: 32.71 ms
+ 23.227.38.74 is reachable, taken time: 25.80 ms
+
+ ----   2024-10-10 08:58:09 ---- 
+ 160.75.25.62 is reachable, taken time: 28.90 ms
+ 185.45.67.130 is reachable, taken time: 54.86 ms
+ 185.104.182.64 is reachable, taken time: 882.87 ms
+ 79.139.60.97 is reachable, taken time: 94.89 ms
+ 85.239.69.14 is reachable, taken time: 481.40 ms
+ 141.101.90.96 is reachable, taken time: 125.74 ms
+ 195.72.120.33 is reachable, taken time: 134.22 ms
+ 185.18.139.126 is reachable, taken time: 145.91 ms
+ 104.17.157.36 is reachable, taken time: 27.22 ms
+ 23.227.38.74 is reachable, taken time: 23.29 ms
+
+ ----   2024-10-10 09:00:04 ---- 
+ 160.75.25.62 is reachable, taken time: 42.84 ms
+ 185.45.67.130 is reachable, taken time: 88.82 ms
+ 185.104.182.64 is reachable, taken time: 921.92 ms
+ 79.139.60.97 is reachable, taken time: 102.01 ms
+ 85.239.69.14 is reachable, taken time: 401.22 ms
+ 141.101.90.96 is reachable, taken time: 130.16 ms
+ 195.72.120.33 is reachable, taken time: 134.49 ms
+ 185.18.139.126 is reachable, taken time: 140.53 ms
+ 104.17.157.36 is reachable, taken time: 32.53 ms
+ 23.227.38.74 is reachable, taken time: 25.84 ms
+
+ ----   2024-10-10 09:02:09 ---- 
+ 160.75.25.62 is reachable, taken time: 27.53 ms
+ 185.45.67.130 is reachable, taken time: 52.87 ms
+ 185.104.182.64 is reachable, taken time: 928.55 ms
+ 79.139.60.97 is reachable, taken time: 93.93 ms
+ 85.239.69.14 is reachable, taken time: 398.05 ms
+ 141.101.90.96 is reachable, taken time: 132.49 ms
+ 195.72.120.33 is reachable, taken time: 131.44 ms
+ 185.18.139.126 is reachable, taken time: 134.41 ms
+ 104.17.157.36 is reachable, taken time: 39.28 ms
+ 23.227.38.74 is reachable, taken time: 32.51 ms
+
+ ----   2024-10-10 09:04:11 ---- 
+ 160.75.25.62 is reachable, taken time: 30.38 ms
+ 185.45.67.130 is reachable, taken time: 52.78 ms
+ 185.104.182.64 is reachable, taken time: 974.94 ms
+ 79.139.60.97 is reachable, taken time: 96.05 ms
+ 85.239.69.14 is reachable, taken time: 768.68 ms
+ 141.101.90.96 is reachable, taken time: 125.12 ms
+ 195.72.120.33 is reachable, taken time: 130.76 ms
+ 185.18.139.126 is reachable, taken time: 144.44 ms
+ 104.17.157.36 is reachable, taken time: 22.28 ms
+ 23.227.38.74 is reachable, taken time: 43.45 ms
+
+ ----   2024-10-10 09:06:20 ---- 
+ 160.75.25.62 is reachable, taken time: 28.29 ms
+ 185.45.67.130 is reachable, taken time: 53.17 ms
+ 185.104.182.64 is reachable, taken time: 902.38 ms
+ 79.139.60.97 is reachable, taken time: 93.51 ms
+ 85.239.69.14 is reachable, taken time: 382.84 ms
+ 141.101.90.96 is reachable, taken time: 124.02 ms
+ 195.72.120.33 is reachable, taken time: 138.83 ms
+ 185.18.139.126 is reachable, taken time: 145.18 ms
+ 104.17.157.36 is reachable, taken time: 35.59 ms
+ 23.227.38.74 is reachable, taken time: 33.80 ms
+
+ ----   2024-10-10 14:30:16 ---- 
+ 160.75.25.62 is reachable, taken time: 30.97 ms
+ 185.45.67.130 is reachable, taken time: 328.54 ms
+ 185.104.182.64 is reachable, taken time: 2298.71 ms
+ 79.139.60.97 is reachable, taken time: 65.42 ms
+ 85.239.69.14 is reachable, taken time: 973.41 ms
+ 141.101.90.96 is reachable, taken time: 122.99 ms
+ 195.72.120.33 is reachable, taken time: 170.43 ms
+ 185.18.139.126 is reachable, taken time: 125.38 ms
+ 104.17.157.36 is reachable, taken time: 18.94 ms
+ 23.227.38.74 is reachable, taken time: 28.18 ms
+
+ ----   2024-10-10 14:32:03 ---- 
+ 160.75.25.62 is reachable, taken time: 18.77 ms
+ 185.45.67.130 is reachable, taken time: 49.11 ms
+ 185.104.182.64 is reachable, taken time: 754.24 ms
+ 79.139.60.97 is reachable, taken time: 75.48 ms
+ 85.239.69.14 is reachable, taken time: 464.39 ms
+ 141.101.90.96 is reachable, taken time: 116.45 ms
+ 195.72.120.33 is reachable, taken time: 134.52 ms
+ 185.18.139.126 is reachable, taken time: 133.17 ms
+ 104.17.157.36 is reachable, taken time: 15.54 ms
+ 23.227.38.74 is reachable, taken time: 15.98 ms
+
+ ----   2024-10-10 14:34:03 ---- 
+ 160.75.25.62 is reachable, taken time: 16.98 ms
+ 185.45.67.130 is reachable, taken time: 69.51 ms
+ 185.104.182.64 is reachable, taken time: 829.85 ms
+ 79.139.60.97 is reachable, taken time: 66.90 ms
+ 85.239.69.14 is reachable, taken time: 362.39 ms
+ 141.101.90.96 is reachable, taken time: 124.93 ms
+ 195.72.120.33 is reachable, taken time: 124.67 ms
+ 185.18.139.126 is reachable, taken time: 134.30 ms
+ 104.17.157.36 is reachable, taken time: 16.16 ms
+ 23.227.38.74 is reachable, taken time: 16.07 ms
+
+ ----   2024-10-10 14:36:07 ---- 
+ 160.75.25.62 is reachable, taken time: 23.29 ms
+ 185.45.67.130 is reachable, taken time: 46.21 ms
+ 185.104.182.64 is reachable, taken time: 805.31 ms
+ 79.139.60.97 is reachable, taken time: 69.49 ms
+ 85.239.69.14 is reachable, taken time: 361.54 ms
+ 141.101.90.96 is reachable, taken time: 122.51 ms
+ 195.72.120.33 is reachable, taken time: 127.40 ms
+ 185.18.139.126 is reachable, taken time: 129.08 ms
+ 104.17.157.36 is reachable, taken time: 20.39 ms
+ 23.227.38.74 is reachable, taken time: 19.50 ms
+
+ ----   2024-10-10 14:38:03 ---- 
+ 160.75.25.62 is reachable, taken time: 19.61 ms
+ 185.45.67.130 is reachable, taken time: 53.49 ms
+ 185.104.182.64 is reachable, taken time: 868.47 ms
+ 79.139.60.97 is reachable, taken time: 58.90 ms
+ 85.239.69.14 is reachable, taken time: 692.60 ms
+ 141.101.90.96 is reachable, taken time: 119.76 ms
+ 195.72.120.33 is reachable, taken time: 128.84 ms
+ 185.18.139.126 is reachable, taken time: 130.89 ms
+ 104.17.157.36 is reachable, taken time: 16.00 ms
+ 23.227.38.74 is reachable, taken time: 19.10 ms
+
+ ----   2024-10-10 14:40:02 ---- 
+ 160.75.25.62 is reachable, taken time: 21.52 ms
+ 185.45.67.130 is reachable, taken time: 51.85 ms
+ 185.104.182.64 is reachable, taken time: 877.52 ms
+ 79.139.60.97 is reachable, taken time: 90.87 ms
+ 85.239.69.14 is reachable, taken time: 338.05 ms
+ 141.101.90.96 is reachable, taken time: 120.29 ms
+ 195.72.120.33 is reachable, taken time: 129.36 ms
+ 185.18.139.126 is reachable, taken time: 132.33 ms
+ 104.17.157.36 is reachable, taken time: 20.63 ms
+ 23.227.38.74 is reachable, taken time: 18.51 ms
+
+ ----   2024-10-10 14:42:03 ---- 
+ 160.75.25.62 is reachable, taken time: 23.14 ms
+ 185.45.67.130 is reachable, taken time: 48.45 ms
+ 185.104.182.64 is reachable, taken time: 910.23 ms
+ 79.139.60.97 is reachable, taken time: 67.43 ms
+ 85.239.69.14 is reachable, taken time: 346.89 ms
+ 141.101.90.96 is reachable, taken time: 124.54 ms
+ 195.72.120.33 is reachable, taken time: 126.08 ms
+ 185.18.139.126 is reachable, taken time: 123.47 ms
+ 104.17.157.36 is reachable, taken time: 17.61 ms
+ 23.227.38.74 is reachable, taken time: 15.83 ms
+
+ ----   2024-10-10 14:44:03 ---- 
+ 160.75.25.62 is reachable, taken time: 53.93 ms
+ 185.45.67.130 is reachable, taken time: 76.36 ms
+ 185.104.182.64 is reachable, taken time: 891.53 ms
+ 79.139.60.97 is reachable, taken time: 93.01 ms
+ 85.239.69.14 is reachable, taken time: 734.53 ms
+ 141.101.90.96 is reachable, taken time: 155.60 ms
+ 195.72.120.33 is reachable, taken time: 139.08 ms
+ 185.18.139.126 is reachable, taken time: 134.47 ms
+ 104.17.157.36 is reachable, taken time: 17.74 ms
+ 23.227.38.74 is reachable, taken time: 40.30 ms
+
+ ----   2024-10-10 14:46:04 ---- 
+ 160.75.25.62 is reachable, taken time: 89.99 ms
+ 185.45.67.130 is reachable, taken time: 130.16 ms
+ 185.104.182.64 is reachable, taken time: 1899.56 ms
+ 79.139.60.97 is reachable, taken time: 106.46 ms
+ 85.239.69.14 is reachable, taken time: 994.23 ms
+ 141.101.90.96 is reachable, taken time: 120.50 ms
+ 195.72.120.33 is reachable, taken time: 158.43 ms
+ 185.18.139.126 is reachable, taken time: 147.28 ms
+ 104.17.157.36 is reachable, taken time: 37.09 ms
+ 23.227.38.74 is reachable, taken time: 55.51 ms
+
+ ----   2024-10-10 14:48:07 ---- 
+ 160.75.25.62 is reachable, taken time: 34.33 ms
+ 185.45.67.130 is reachable, taken time: 73.02 ms
+ 185.104.182.64 is reachable, taken time: 1263.56 ms
+ 79.139.60.97 is reachable, taken time: 137.13 ms
+ 85.239.69.14 is reachable, taken time: 631.41 ms
+ 141.101.90.96 is reachable, taken time: 151.48 ms
+ 195.72.120.33 is reachable, taken time: 148.95 ms
+ 185.18.139.126 is reachable, taken time: 161.18 ms
+ 104.17.157.36 is reachable, taken time: 73.45 ms
+ 23.227.38.74 is reachable, taken time: 29.59 ms
+
+ ----   2024-10-10 20:40:20 ---- 
+ 160.75.25.62 is reachable, taken time: 262.77 ms
+ 185.45.67.130 is reachable, taken time: 251.89 ms
+ 185.104.182.64 is reachable, taken time: 1455.01 ms
+ 79.139.60.97 is reachable, taken time: 71.45 ms
+ 85.239.69.14 is reachable, taken time: 650.19 ms
+ 141.101.90.96 is reachable, taken time: 137.28 ms
+ 195.72.120.33 is reachable, taken time: 350.27 ms
+ 185.18.139.126 is reachable, taken time: 405.46 ms
+ 104.17.157.36 is reachable, taken time: 159.68 ms
+ 23.227.38.74 is reachable, taken time: 23.34 ms
+
+ ----   2024-10-10 20:42:05 ---- 
+ 160.75.25.62 is reachable, taken time: 17.89 ms
+ 185.45.67.130 is reachable, taken time: 50.79 ms
+ 185.104.182.64 is reachable, taken time: 865.91 ms
+ 79.139.60.97 is reachable, taken time: 63.10 ms
+ 85.239.69.14 is reachable, taken time: 368.18 ms
+ 141.101.90.96 is reachable, taken time: 136.56 ms
+ 195.72.120.33 is reachable, taken time: 131.68 ms
+ 185.18.139.126 is reachable, taken time: 131.94 ms
+ 104.17.157.36 is reachable, taken time: 31.53 ms
+ 23.227.38.74 is reachable, taken time: 29.35 ms
+
+ ----   2024-10-10 20:44:05 ---- 
+ 160.75.25.62 is reachable, taken time: 57.51 ms
+ 185.45.67.130 is reachable, taken time: 58.28 ms
+ 185.104.182.64 is reachable, taken time: 929.65 ms
+ 79.139.60.97 is reachable, taken time: 61.33 ms
+ 85.239.69.14 is reachable, taken time: 378.53 ms
+ 141.101.90.96 is reachable, taken time: 121.72 ms
+ 195.72.120.33 is reachable, taken time: 131.57 ms
+ 185.18.139.126 is reachable, taken time: 134.60 ms
+ 104.17.157.36 is reachable, taken time: 32.02 ms
+ 23.227.38.74 is reachable, taken time: 27.62 ms
+
+ ----   2024-10-10 20:46:05 ---- 
+ 160.75.25.62 is reachable, taken time: 17.62 ms
+ 185.45.67.130 is reachable, taken time: 52.19 ms
+ 185.104.182.64 is reachable, taken time: 902.83 ms
+ 79.139.60.97 is reachable, taken time: 69.98 ms
+ 85.239.69.14 is reachable, taken time: 518.62 ms
+ 141.101.90.96 is reachable, taken time: 151.31 ms
+ 195.72.120.33 is reachable, taken time: 133.10 ms
+ 185.18.139.126 is reachable, taken time: 134.58 ms
+ 104.17.157.36 is reachable, taken time: 28.37 ms
+ 23.227.38.74 is reachable, taken time: 27.38 ms
+
+ ----   2024-10-10 20:48:06 ---- 
+ 160.75.25.62 is reachable, taken time: 22.16 ms
+ 185.45.67.130 is reachable, taken time: 51.77 ms
+ 185.104.182.64 is reachable, taken time: 902.26 ms
+ 79.139.60.97 is reachable, taken time: 71.12 ms
+ 85.239.69.14 is reachable, taken time: 356.86 ms
+ 141.101.90.96 is reachable, taken time: 120.19 ms
+ 195.72.120.33 is reachable, taken time: 129.73 ms
+ 185.18.139.126 is reachable, taken time: 135.89 ms
+ 104.17.157.36 is reachable, taken time: 24.83 ms
+ 23.227.38.74 is reachable, taken time: 29.23 ms
+
+ ----   2024-10-10 20:50:05 ---- 
+ 160.75.25.62 is reachable, taken time: 21.94 ms
+ 185.45.67.130 is reachable, taken time: 54.22 ms
+ 185.104.182.64 is reachable, taken time: 883.59 ms
+ 79.139.60.97 is reachable, taken time: 62.75 ms
+ 85.239.69.14 is reachable, taken time: 356.28 ms
+ 141.101.90.96 is reachable, taken time: 120.64 ms
+ 195.72.120.33 is reachable, taken time: 129.52 ms
+ 185.18.139.126 is reachable, taken time: 134.83 ms
+ 104.17.157.36 is reachable, taken time: 24.32 ms
+ 23.227.38.74 is reachable, taken time: 21.09 ms
+
+ ----   2024-10-10 20:52:07 ---- 
+ 160.75.25.62 is reachable, taken time: 24.16 ms
+ 185.45.67.130 is reachable, taken time: 52.32 ms
+ 185.104.182.64 is reachable, taken time: 843.69 ms
+ 79.139.60.97 is reachable, taken time: 71.05 ms
+ 85.239.69.14 is reachable, taken time: 528.09 ms
+ 141.101.90.96 is reachable, taken time: 154.83 ms
+ 195.72.120.33 is reachable, taken time: 129.73 ms
+ 185.18.139.126 is reachable, taken time: 130.97 ms
+ 104.17.157.36 is reachable, taken time: 28.47 ms
+ 23.227.38.74 is reachable, taken time: 27.94 ms
+
+ ----   2024-10-10 20:54:04 ---- 
+ 160.75.25.62 is reachable, taken time: 28.53 ms
+ 185.45.67.130 is reachable, taken time: 61.67 ms
+ 185.104.182.64 is reachable, taken time: 795.17 ms
+ 79.139.60.97 is reachable, taken time: 64.00 ms
+ 85.239.69.14 is reachable, taken time: 455.18 ms
+ 141.101.90.96 is reachable, taken time: 129.46 ms
+ 195.72.120.33 is reachable, taken time: 130.68 ms
+ 185.18.139.126 is reachable, taken time: 139.14 ms
+ 104.17.157.36 is reachable, taken time: 21.91 ms
+ 23.227.38.74 is reachable, taken time: 19.46 ms
+
+ ----   2024-10-10 20:56:08 ---- 
+ 160.75.25.62 is reachable, taken time: 27.61 ms
+ 185.45.67.130 is reachable, taken time: 51.32 ms
+ 185.104.182.64 is reachable, taken time: 881.12 ms
+ 79.139.60.97 is reachable, taken time: 99.24 ms
+ 85.239.69.14 is reachable, taken time: 399.31 ms
+ 141.101.90.96 is reachable, taken time: 123.19 ms
+ 195.72.120.33 is reachable, taken time: 131.90 ms
+ 185.18.139.126 is reachable, taken time: 132.99 ms
+ 104.17.157.36 is reachable, taken time: 23.57 ms
+ 23.227.38.74 is reachable, taken time: 23.59 ms
+
+ ----   2024-10-10 20:58:11 ---- 
+ 160.75.25.62 is reachable, taken time: 20.61 ms
+ 185.45.67.130 is reachable, taken time: 51.93 ms
+ 185.104.182.64 is reachable, taken time: 848.68 ms
+ 79.139.60.97 is reachable, taken time: 62.60 ms
+ 85.239.69.14 is reachable, taken time: 431.93 ms
+ 141.101.90.96 is reachable, taken time: 133.10 ms
+ 195.72.120.33 is reachable, taken time: 130.63 ms
+ 185.18.139.126 is reachable, taken time: 130.85 ms
+ 104.17.157.36 is reachable, taken time: 29.82 ms
+ 23.227.38.74 is reachable, taken time: 27.11 ms
+
+ ----   2024-10-11 08:50:05 ---- 
+ 160.75.25.62 is reachable, taken time: 21.96 ms
+ 185.45.67.130 is reachable, taken time: 52.23 ms
+ 185.104.182.64 is reachable, taken time: 1212.25 ms
+ 79.139.60.97 is reachable, taken time: 71.08 ms
+ 85.239.69.14 is reachable, taken time: 503.76 ms
+ 141.101.90.96 is reachable, taken time: 125.99 ms
+ 195.72.120.33 is reachable, taken time: 130.69 ms
+ 185.18.139.126 is reachable, taken time: 131.50 ms
+ 104.17.157.36 is reachable, taken time: 30.07 ms
+ 23.227.38.74 is reachable, taken time: 32.43 ms
+
+ ----   2024-10-11 08:52:08 ---- 
+ 160.75.25.62 is reachable, taken time: 29.23 ms
+ 185.45.67.130 is reachable, taken time: 50.34 ms
+ 185.104.182.64 is reachable, taken time: 902.70 ms
+ 79.139.60.97 is reachable, taken time: 68.62 ms
+ 85.239.69.14 is reachable, taken time: 360.50 ms
+ 141.101.90.96 is reachable, taken time: 126.29 ms
+ 195.72.120.33 is reachable, taken time: 131.90 ms
+ 185.18.139.126 is reachable, taken time: 138.35 ms
+ 104.17.157.36 is reachable, taken time: 24.42 ms
+ 23.227.38.74 is reachable, taken time: 23.33 ms
+
+ ----   2024-10-11 08:54:11 ---- 
+ 160.75.25.62 is reachable, taken time: 20.41 ms
+ 185.45.67.130 is reachable, taken time: 51.72 ms
+ 185.104.182.64 is reachable, taken time: 959.03 ms
+ 79.139.60.97 is reachable, taken time: 59.58 ms
+ 85.239.69.14 is reachable, taken time: 356.03 ms
+ 141.101.90.96 is reachable, taken time: 122.38 ms
+ 195.72.120.33 is reachable, taken time: 128.97 ms
+ 185.18.139.126 is reachable, taken time: 135.73 ms
+ 104.17.157.36 is reachable, taken time: 25.82 ms
+ 23.227.38.74 is reachable, taken time: 24.30 ms
+
+ ----   2024-10-11 08:56:13 ---- 
+ 160.75.25.62 is reachable, taken time: 19.32 ms
+ 185.45.67.130 is reachable, taken time: 51.06 ms
+ 185.104.182.64 is reachable, taken time: 901.30 ms
+ 79.139.60.97 is reachable, taken time: 61.60 ms
+ 85.239.69.14 is reachable, taken time: 449.86 ms
+ 141.101.90.96 is reachable, taken time: 137.67 ms
+ 195.72.120.33 is reachable, taken time: 134.41 ms
+ 185.18.139.126 is reachable, taken time: 131.57 ms
+ 104.17.157.36 is reachable, taken time: 28.93 ms
+ 23.227.38.74 is reachable, taken time: 34.26 ms
+
+ ----   2024-10-11 08:58:09 ---- 
+ 160.75.25.62 is reachable, taken time: 29.45 ms
+ 185.45.67.130 is reachable, taken time: 48.87 ms
+ 185.104.182.64 is reachable, taken time: 1043.30 ms
+ 79.139.60.97 is reachable, taken time: 62.63 ms
+ 85.239.69.14 is reachable, taken time: 398.61 ms
+ 141.101.90.96 is reachable, taken time: 136.07 ms
+ 195.72.120.33 is reachable, taken time: 131.22 ms
+ 185.18.139.126 is reachable, taken time: 140.57 ms
+ 104.17.157.36 is reachable, taken time: 29.15 ms
+ 23.227.38.74 is reachable, taken time: 23.35 ms
+
+ ----   2024-10-11 09:00:09 ---- 
+ 160.75.25.62 is reachable, taken time: 20.09 ms
+ 185.45.67.130 is reachable, taken time: 53.76 ms
+ 185.104.182.64 is reachable, taken time: 1014.82 ms
+ 79.139.60.97 is reachable, taken time: 61.35 ms
+ 85.239.69.14 is reachable, taken time: 378.38 ms
+ 141.101.90.96 is reachable, taken time: 133.93 ms
+ 195.72.120.33 is reachable, taken time: 132.28 ms
+ 185.18.139.126 is reachable, taken time: 144.14 ms
+ 104.17.157.36 is reachable, taken time: 30.97 ms
+ 23.227.38.74 is reachable, taken time: 29.47 ms
+
+ ----   2024-10-11 09:02:13 ---- 
+ 160.75.25.62 is reachable, taken time: 29.65 ms
+ 185.45.67.130 is reachable, taken time: 52.09 ms
+ 185.104.182.64 is reachable, taken time: 861.37 ms
+ 79.139.60.97 is reachable, taken time: 60.99 ms
+ 85.239.69.14 is reachable, taken time: 1556.31 ms
+ 141.101.90.96 is reachable, taken time: 129.64 ms
+ 195.72.120.33 is reachable, taken time: 129.84 ms
+ 185.18.139.126 is reachable, taken time: 149.41 ms
+ 104.17.157.36 is reachable, taken time: 32.45 ms
+ 23.227.38.74 is reachable, taken time: 29.53 ms
+
+ ----   2024-10-11 09:04:09 ---- 
+ 160.75.25.62 is reachable, taken time: 18.30 ms
+ 185.45.67.130 is reachable, taken time: 52.48 ms
+ 185.104.182.64 is reachable, taken time: 807.13 ms
+ 79.139.60.97 is reachable, taken time: 63.90 ms
+ 85.239.69.14 is reachable, taken time: 338.48 ms
+ 141.101.90.96 is reachable, taken time: 123.23 ms
+ 195.72.120.33 is reachable, taken time: 129.08 ms
+ 185.18.139.126 is reachable, taken time: 138.54 ms
+ 104.17.157.36 is reachable, taken time: 45.60 ms
+ 23.227.38.74 is reachable, taken time: 22.86 ms
+
+ ----   2024-10-11 09:06:03 ---- 
+ 160.75.25.62 is reachable, taken time: 22.39 ms
+ 185.45.67.130 is reachable, taken time: 53.32 ms
+ 185.104.182.64 is reachable, taken time: 886.40 ms
+ 79.139.60.97 is reachable, taken time: 69.69 ms
+ 85.239.69.14 is reachable, taken time: 417.67 ms
+ 141.101.90.96 is reachable, taken time: 131.86 ms
+ 195.72.120.33 is reachable, taken time: 135.55 ms
+ 185.18.139.126 is reachable, taken time: 136.49 ms
+ 104.17.157.36 is reachable, taken time: 29.97 ms
+ 23.227.38.74 is reachable, taken time: 28.79 ms
+
+ ----   2024-10-11 09:08:50 ---- 
+ 160.75.25.62 is reachable, taken time: 22.80 ms
+ 185.45.67.130 is reachable, taken time: 53.29 ms
+ 185.104.182.64 is reachable, taken time: 838.71 ms
+ 79.139.60.97 is reachable, taken time: 71.69 ms
+ 85.239.69.14 is reachable, taken time: 569.91 ms
+ 141.101.90.96 is reachable, taken time: 124.21 ms
+ 195.72.120.33 is reachable, taken time: 128.53 ms
+ 185.18.139.126 is reachable, taken time: 182.86 ms
+ 104.17.157.36 is reachable, taken time: 30.01 ms
+ 23.227.38.74 is reachable, taken time: 31.67 ms
+
+ ----   2024-10-11 15:14:35 ---- 
+ 160.75.25.62 is reachable, taken time: 16.50 ms
+ 185.45.67.130 is reachable, taken time: 66.65 ms
+ 185.104.182.64 is reachable, taken time: 1192.71 ms
+ 79.139.60.97 is reachable, taken time: 1118.21 ms
+ 85.239.69.14 is reachable, taken time: 897.39 ms
+ 141.101.90.96 is reachable, taken time: 315.37 ms
+ 195.72.120.33 is reachable, taken time: 333.34 ms
+ 185.18.139.126 is reachable, taken time: 356.45 ms
+ 104.17.157.36 is reachable, taken time: 156.78 ms
+ 23.227.38.74 is reachable, taken time: 22.87 ms
+
+ ----   2024-10-11 15:16:05 ---- 
+ 160.75.25.62 is reachable, taken time: 20.73 ms
+ 185.45.67.130 is reachable, taken time: 51.38 ms
+ 185.104.182.64 is reachable, taken time: 871.97 ms
+ 79.139.60.97 is reachable, taken time: 69.55 ms
+ 85.239.69.14 is reachable, taken time: 365.38 ms
+ 141.101.90.96 is reachable, taken time: 119.85 ms
+ 195.72.120.33 is reachable, taken time: 131.19 ms
+ 185.18.139.126 is reachable, taken time: 130.24 ms
+ 104.17.157.36 is reachable, taken time: 23.63 ms
+ 23.227.38.74 is reachable, taken time: 21.43 ms
+
+ ----   2024-10-11 15:18:07 ---- 
+ 160.75.25.62 is reachable, taken time: 21.71 ms
+ 185.45.67.130 is reachable, taken time: 50.46 ms
+ 185.104.182.64 is reachable, taken time: 808.10 ms
+ 79.139.60.97 is reachable, taken time: 60.32 ms
+ 85.239.69.14 is reachable, taken time: 344.95 ms
+ 141.101.90.96 is reachable, taken time: 123.51 ms
+ 195.72.120.33 is reachable, taken time: 131.48 ms
+ 185.18.139.126 is reachable, taken time: 131.11 ms
+ 104.17.157.36 is reachable, taken time: 22.72 ms
+ 23.227.38.74 is reachable, taken time: 21.35 ms
+
+ ----   2024-10-11 15:20:23 ---- 
+ 160.75.25.62 is reachable, taken time: 21.43 ms
+ 185.45.67.130 is reachable, taken time: 52.26 ms
+ 185.104.182.64 is reachable, taken time: 897.88 ms
+ 79.139.60.97 is reachable, taken time: 60.43 ms
+ 85.239.69.14 is reachable, taken time: 693.17 ms
+ 141.101.90.96 is reachable, taken time: 123.77 ms
+ 195.72.120.33 is reachable, taken time: 130.96 ms
+ 185.18.139.126 is reachable, taken time: 143.48 ms
+ 104.17.157.36 is reachable, taken time: 23.44 ms
+ 23.227.38.74 is reachable, taken time: 22.00 ms
+
+ ----   2024-10-11 15:22:03 ---- 
+ 160.75.25.62 is reachable, taken time: 27.66 ms
+ 185.45.67.130 is reachable, taken time: 78.32 ms
+ 185.104.182.64 is reachable, taken time: 807.87 ms
+ 79.139.60.97 is reachable, taken time: 69.92 ms
+ 85.239.69.14 is reachable, taken time: 343.05 ms
+ 141.101.90.96 is reachable, taken time: 130.81 ms
+ 195.72.120.33 is reachable, taken time: 132.11 ms
+ 185.18.139.126 is reachable, taken time: 130.75 ms
+ 104.17.157.36 is reachable, taken time: 22.65 ms
+ 23.227.38.74 is reachable, taken time: 22.51 ms
+
+ ----   2024-10-11 15:24:02 ---- 
+ 160.75.25.62 is reachable, taken time: 20.41 ms
+ 185.45.67.130 is reachable, taken time: 51.39 ms
+ 185.104.182.64 is reachable, taken time: 833.50 ms
+ 79.139.60.97 is reachable, taken time: 70.82 ms
+ 85.239.69.14 is reachable, taken time: 345.31 ms
+ 141.101.90.96 is reachable, taken time: 121.06 ms
+ 195.72.120.33 is reachable, taken time: 130.65 ms
+ 185.18.139.126 is reachable, taken time: 133.87 ms
+ 104.17.157.36 is reachable, taken time: 23.24 ms
+ 23.227.38.74 is reachable, taken time: 22.51 ms
+
+ ----   2024-10-11 15:26:25 ---- 
+ 160.75.25.62 is reachable, taken time: 28.27 ms
+ 185.45.67.130 is reachable, taken time: 51.73 ms
+ 185.104.182.64 is reachable, taken time: 854.71 ms
+ 79.139.60.97 is reachable, taken time: 70.39 ms
+ 85.239.69.14 is reachable, taken time: 523.42 ms
+ 141.101.90.96 is reachable, taken time: 121.39 ms
+ 195.72.120.33 is reachable, taken time: 134.41 ms
+ 185.18.139.126 is reachable, taken time: 140.79 ms
+ 104.17.157.36 is reachable, taken time: 22.13 ms
+ 23.227.38.74 is reachable, taken time: 23.35 ms
+
+ ----   2024-10-11 15:28:09 ---- 
+ 160.75.25.62 is reachable, taken time: 20.89 ms
+ 185.45.67.130 is reachable, taken time: 49.13 ms
+ 185.104.182.64 is reachable, taken time: 935.70 ms
+ 79.139.60.97 is reachable, taken time: 59.08 ms
+ 85.239.69.14 is reachable, taken time: 345.13 ms
+ 141.101.90.96 is reachable, taken time: 132.39 ms
+ 195.72.120.33 is reachable, taken time: 127.49 ms
+ 185.18.139.126 is reachable, taken time: 138.12 ms
+ 104.17.157.36 is reachable, taken time: 22.46 ms
+ 23.227.38.74 is reachable, taken time: 22.64 ms
+
+ ----   2024-10-11 15:30:07 ---- 
+ 160.75.25.62 is reachable, taken time: 27.64 ms
+ 185.45.67.130 is reachable, taken time: 74.20 ms
+ 185.104.182.64 is reachable, taken time: 927.45 ms
+ 79.139.60.97 is reachable, taken time: 58.89 ms
+ 85.239.69.14 is reachable, taken time: 343.72 ms
+ 141.101.90.96 is reachable, taken time: 128.64 ms
+ 195.72.120.33 is reachable, taken time: 127.91 ms
+ 185.18.139.126 is reachable, taken time: 140.80 ms
+ 104.17.157.36 is reachable, taken time: 26.92 ms
+ 23.227.38.74 is reachable, taken time: 21.13 ms
+
+ ----   2024-10-11 15:32:11 ---- 
+ 160.75.25.62 is reachable, taken time: 20.22 ms
+ 185.45.67.130 is reachable, taken time: 50.58 ms
+ 185.104.182.64 is reachable, taken time: 786.68 ms
+ 79.139.60.97 is reachable, taken time: 62.09 ms
+ 85.239.69.14 is reachable, taken time: 382.24 ms
+ 141.101.90.96 is reachable, taken time: 130.81 ms
+ 195.72.120.33 is reachable, taken time: 128.15 ms
+ 185.18.139.126 is reachable, taken time: 140.12 ms
+ 104.17.157.36 is reachable, taken time: 22.78 ms
+ 23.227.38.74 is reachable, taken time: 22.99 ms
+
+ ----   2024-10-11 20:00:06 ---- 
+ 160.75.25.62 is reachable, taken time: 21.43 ms
+ 185.45.67.130 is reachable, taken time: 88.46 ms
+ 185.104.182.64 is reachable, taken time: 1288.55 ms
+ 79.139.60.97 is reachable, taken time: 69.86 ms
+ 85.239.69.14 is reachable, taken time: 477.32 ms
+ 141.101.90.96 is reachable, taken time: 132.08 ms
+ 195.72.120.33 is reachable, taken time: 131.56 ms
+ 185.18.139.126 is reachable, taken time: 128.27 ms
+ 104.17.157.36 is reachable, taken time: 20.45 ms
+ 23.227.38.74 is reachable, taken time: 19.16 ms
+
+ ----   2024-10-11 20:02:06 ---- 
+ 160.75.25.62 is reachable, taken time: 27.95 ms
+ 185.45.67.130 is reachable, taken time: 51.94 ms
+ 185.104.182.64 is reachable, taken time: 726.93 ms
+ 79.139.60.97 is reachable, taken time: 71.30 ms
+ 85.239.69.14 is reachable, taken time: 313.74 ms
+ 141.101.90.96 is reachable, taken time: 119.99 ms
+ 195.72.120.33 is reachable, taken time: 126.37 ms
+ 185.18.139.126 is reachable, taken time: 136.70 ms
+ 104.17.157.36 is reachable, taken time: 21.43 ms
+ 23.227.38.74 is reachable, taken time: 22.31 ms
+
+ ----   2024-10-11 20:04:07 ---- 
+ 160.75.25.62 is reachable, taken time: 27.21 ms
+ 185.45.67.130 is reachable, taken time: 50.43 ms
+ 185.104.182.64 is reachable, taken time: 813.54 ms
+ 79.139.60.97 is reachable, taken time: 61.79 ms
+ 85.239.69.14 is reachable, taken time: 342.82 ms
+ 141.101.90.96 is reachable, taken time: 131.29 ms
+ 195.72.120.33 is reachable, taken time: 131.14 ms
+ 185.18.139.126 is reachable, taken time: 143.68 ms
+ 104.17.157.36 is reachable, taken time: 23.23 ms
+ 23.227.38.74 is reachable, taken time: 21.62 ms
+
+ ----   2024-10-11 20:06:06 ---- 
+ 160.75.25.62 is reachable, taken time: 20.65 ms
+ 185.45.67.130 is reachable, taken time: 50.57 ms
+ 185.104.182.64 is reachable, taken time: 858.00 ms
+ 79.139.60.97 is reachable, taken time: 62.24 ms
+ 85.239.69.14 is reachable, taken time: 692.11 ms
+ 141.101.90.96 is reachable, taken time: 132.14 ms
+ 195.72.120.33 is reachable, taken time: 129.98 ms
+ 185.18.139.126 is reachable, taken time: 135.13 ms
+ 104.17.157.36 is reachable, taken time: 21.43 ms
+ 23.227.38.74 is reachable, taken time: 20.91 ms
+
+ ----   2024-10-11 20:08:11 ---- 
+ 160.75.25.62 is reachable, taken time: 27.72 ms
+ 185.45.67.130 is reachable, taken time: 51.76 ms
+ 185.104.182.64 is reachable, taken time: 901.57 ms
+ 79.139.60.97 is reachable, taken time: 67.07 ms
+ 85.239.69.14 is reachable, taken time: 375.94 ms
+ 141.101.90.96 is reachable, taken time: 130.41 ms
+ 195.72.120.33 is reachable, taken time: 130.95 ms
+ 185.18.139.126 is reachable, taken time: 136.76 ms
+ 104.17.157.36 is reachable, taken time: 22.24 ms
+ 23.227.38.74 is reachable, taken time: 21.43 ms
+
+ ----   2024-10-11 20:09:59 ---- 
+ 160.75.25.62 is reachable, taken time: 28.31 ms
+ 185.45.67.130 is reachable, taken time: 50.81 ms
+ 185.104.182.64 is reachable, taken time: 836.79 ms
+ 79.139.60.97 is reachable, taken time: 60.77 ms
+ 85.239.69.14 is reachable, taken time: 336.01 ms
+ 141.101.90.96 is reachable, taken time: 124.77 ms
+ 195.72.120.33 is reachable, taken time: 130.63 ms
+ 185.18.139.126 is reachable, taken time: 139.70 ms
+ 104.17.157.36 is reachable, taken time: 23.41 ms
+ 23.227.38.74 is reachable, taken time: 21.96 ms
+
+ ----   2024-10-11 20:12:17 ---- 
+ 160.75.25.62 is reachable, taken time: 28.29 ms
+ 185.45.67.130 is reachable, taken time: 51.69 ms
+ 185.104.182.64 is reachable, taken time: 896.67 ms
+ 79.139.60.97 is reachable, taken time: 67.31 ms
+ 85.239.69.14 is reachable, taken time: 408.91 ms
+ 141.101.90.96 is reachable, taken time: 118.52 ms
+ 195.72.120.33 is reachable, taken time: 133.63 ms
+ 185.18.139.126 is reachable, taken time: 143.64 ms
+ 104.17.157.36 is reachable, taken time: 22.55 ms
+ 23.227.38.74 is reachable, taken time: 21.39 ms
+
+ ----   2024-10-11 20:14:18 ---- 
+ 160.75.25.62 is reachable, taken time: 28.09 ms
+ 185.45.67.130 is reachable, taken time: 51.53 ms
+ 185.104.182.64 is reachable, taken time: 858.26 ms
+ 79.139.60.97 is reachable, taken time: 60.72 ms
+ 85.239.69.14 is reachable, taken time: 349.25 ms
+ 141.101.90.96 is reachable, taken time: 127.13 ms
+ 195.72.120.33 is reachable, taken time: 127.13 ms
+ 185.18.139.126 is reachable, taken time: 130.03 ms
+ 104.17.157.36 is reachable, taken time: 26.50 ms
+ 23.227.38.74 is reachable, taken time: 22.52 ms
+
+ ----   2024-10-11 20:16:08 ---- 
+ 160.75.25.62 is reachable, taken time: 21.04 ms
+ 185.45.67.130 is reachable, taken time: 52.25 ms
+ 185.104.182.64 is reachable, taken time: 751.49 ms
+ 79.139.60.97 is reachable, taken time: 63.55 ms
+ 85.239.69.14 is reachable, taken time: 326.64 ms
+ 141.101.90.96 is reachable, taken time: 130.93 ms
+ 195.72.120.33 is reachable, taken time: 128.45 ms
+ 185.18.139.126 is reachable, taken time: 131.76 ms
+ 104.17.157.36 is reachable, taken time: 27.81 ms
+ 23.227.38.74 is reachable, taken time: 23.54 ms
+
+ ----   2024-10-11 20:18:04 ---- 
+ 160.75.25.62 is reachable, taken time: 20.48 ms
+ 185.45.67.130 is reachable, taken time: 51.12 ms
+ 185.104.182.64 is reachable, taken time: 808.15 ms
+ 79.139.60.97 is reachable, taken time: 62.81 ms
+ 85.239.69.14 is reachable, taken time: 413.18 ms
+ 141.101.90.96 is reachable, taken time: 134.31 ms
+ 195.72.120.33 is reachable, taken time: 127.41 ms
+ 185.18.139.126 is reachable, taken time: 130.16 ms
+ 104.17.157.36 is reachable, taken time: 21.35 ms
+ 23.227.38.74 is reachable, taken time: 20.81 ms
+
+ ----   2024-10-12 09:30:24 ---- 
+ 160.75.25.62 is reachable, taken time: 825.72 ms
+ 185.45.67.130 is reachable, taken time: 62.87 ms
+ 185.104.182.64 is reachable, taken time: 1169.66 ms
+ 79.139.60.97 is reachable, taken time: 66.52 ms
+ 85.239.69.14 is reachable, taken time: 1065.56 ms
+ 141.101.90.96 is reachable, taken time: 121.54 ms
+ 195.72.120.33 is reachable, taken time: 138.14 ms
+ 185.18.139.126 is reachable, taken time: 167.58 ms
+ 104.17.157.36 is reachable, taken time: 39.12 ms
+ 23.227.38.74 is reachable, taken time: 29.10 ms
+
+ ----   2024-10-12 09:32:05 ---- 
+ 160.75.25.62 is reachable, taken time: 23.80 ms
+ 185.45.67.130 is reachable, taken time: 51.89 ms
+ 185.104.182.64 is reachable, taken time: 867.78 ms
+ 79.139.60.97 is reachable, taken time: 76.03 ms
+ 85.239.69.14 is reachable, taken time: 360.22 ms
+ 141.101.90.96 is reachable, taken time: 133.46 ms
+ 195.72.120.33 is reachable, taken time: 135.01 ms
+ 185.18.139.126 is reachable, taken time: 124.63 ms
+ 104.17.157.36 is reachable, taken time: 24.15 ms
+ 23.227.38.74 is reachable, taken time: 23.72 ms
+
+ ----   2024-10-12 09:34:17 ---- 
+ 160.75.25.62 is reachable, taken time: 17.01 ms
+ 185.45.67.130 is reachable, taken time: 52.21 ms
+ 185.104.182.64 is reachable, taken time: 874.38 ms
+ 79.139.60.97 is reachable, taken time: 61.00 ms
+ 85.239.69.14 is reachable, taken time: 380.68 ms
+ 141.101.90.96 is reachable, taken time: 126.18 ms
+ 195.72.120.33 is reachable, taken time: 130.31 ms
+ 185.18.139.126 is reachable, taken time: 137.08 ms
+ 104.17.157.36 is reachable, taken time: 27.14 ms
+ 23.227.38.74 is reachable, taken time: 29.85 ms
+
+ ----   2024-10-12 09:36:14 ---- 
+ 160.75.25.62 is reachable, taken time: 20.79 ms
+ 185.45.67.130 is reachable, taken time: 52.24 ms
+ 185.104.182.64 is reachable, taken time: 830.50 ms
+ 79.139.60.97 is reachable, taken time: 74.00 ms
+ 85.239.69.14 is reachable, taken time: 330.58 ms
+ 141.101.90.96 is reachable, taken time: 122.16 ms
+ 195.72.120.33 is reachable, taken time: 132.21 ms
+ 185.18.139.126 is reachable, taken time: 120.18 ms
+ 104.17.157.36 is reachable, taken time: 19.46 ms
+ 23.227.38.74 is reachable, taken time: 19.81 ms
+
+ ----   2024-10-12 09:38:10 ---- 
+ 160.75.25.62 is reachable, taken time: 22.52 ms
+ 185.45.67.130 is reachable, taken time: 54.13 ms
+ 185.104.182.64 is reachable, taken time: 812.42 ms
+ 79.139.60.97 is reachable, taken time: 69.73 ms
+ 85.239.69.14 is reachable, taken time: 545.00 ms
+ 141.101.90.96 is reachable, taken time: 139.11 ms
+ 195.72.120.33 is reachable, taken time: 136.55 ms
+ 185.18.139.126 is reachable, taken time: 138.27 ms
+ 104.17.157.36 is reachable, taken time: 29.88 ms
+ 23.227.38.74 is reachable, taken time: 24.98 ms
+
+ ----   2024-10-12 09:40:28 ---- 
+ 160.75.25.62 is reachable, taken time: 22.90 ms
+ 185.45.67.130 is reachable, taken time: 52.48 ms
+ 185.104.182.64 is reachable, taken time: 799.23 ms
+ 79.139.60.97 is reachable, taken time: 69.54 ms
+ 85.239.69.14 is reachable, taken time: 405.23 ms
+ 141.101.90.96 is reachable, taken time: 124.68 ms
+ 195.72.120.33 is reachable, taken time: 135.81 ms
+ 185.18.139.126 is reachable, taken time: 127.93 ms
+ 104.17.157.36 is reachable, taken time: 22.90 ms
+ 23.227.38.74 is reachable, taken time: 24.60 ms
+
+ ----   2024-10-12 09:42:27 ---- 
+ 160.75.25.62 is reachable, taken time: 17.69 ms
+ 185.45.67.130 is reachable, taken time: 49.39 ms
+ 185.104.182.64 is reachable, taken time: 834.11 ms
+ 79.139.60.97 is reachable, taken time: 84.78 ms
+ 85.239.69.14 is reachable, taken time: 382.87 ms
+ 141.101.90.96 is reachable, taken time: 124.60 ms
+ 195.72.120.33 is reachable, taken time: 135.40 ms
+ 185.18.139.126 is reachable, taken time: 126.62 ms
+ 104.17.157.36 is reachable, taken time: 24.54 ms
+ 23.227.38.74 is reachable, taken time: 24.41 ms
+
+ ----   2024-10-12 09:45:05 ---- 
+ 160.75.25.62 is reachable, taken time: 32.59 ms
+ 185.45.67.130 is reachable, taken time: 63.94 ms
+ 185.104.182.64 is reachable, taken time: 985.82 ms
+ 79.139.60.97 is reachable, taken time: 66.55 ms
+ 85.239.69.14 is reachable, taken time: 917.56 ms
+ 141.101.90.96 is reachable, taken time: 134.66 ms
+ 195.72.120.33 is reachable, taken time: 139.24 ms
+ 185.18.139.126 is reachable, taken time: 168.78 ms
+ 104.17.157.36 is reachable, taken time: 31.68 ms
+ 23.227.38.74 is reachable, taken time: 26.07 ms
+
+ ----   2024-10-12 09:46:22 ---- 
+ 160.75.25.62 is reachable, taken time: 21.22 ms
+ 185.45.67.130 is reachable, taken time: 51.64 ms
+ 185.104.182.64 is reachable, taken time: 842.29 ms
+ 79.139.60.97 is reachable, taken time: 63.20 ms
+ 85.239.69.14 is reachable, taken time: 412.09 ms
+ 141.101.90.96 is reachable, taken time: 130.16 ms
+ 195.72.120.33 is reachable, taken time: 132.94 ms
+ 185.18.139.126 is reachable, taken time: 125.56 ms
+ 104.17.157.36 is reachable, taken time: 23.78 ms
+ 23.227.38.74 is reachable, taken time: 24.93 ms
+
+ ----   2024-10-12 09:48:17 ---- 
+ 160.75.25.62 is reachable, taken time: 20.97 ms
+ 185.45.67.130 is reachable, taken time: 51.00 ms
+ 185.104.182.64 is reachable, taken time: 854.15 ms
+ 79.139.60.97 is reachable, taken time: 64.64 ms
+ 85.239.69.14 is reachable, taken time: 382.94 ms
+ 141.101.90.96 is reachable, taken time: 129.52 ms
+ 195.72.120.33 is reachable, taken time: 134.89 ms
+ 185.18.139.126 is reachable, taken time: 133.80 ms
+ 104.17.157.36 is reachable, taken time: 31.11 ms
+ 23.227.38.74 is reachable, taken time: 32.62 ms
+
+ ----   2024-10-12 14:24:24 ---- 
+ 160.75.25.62 is reachable, taken time: 13.23 ms
+ 185.45.67.130 is reachable, taken time: 45.10 ms
+ 185.104.182.64 is reachable, taken time: 1129.64 ms
+ 79.139.60.97 is reachable, taken time: 58.46 ms
+ 85.239.69.14 is reachable, taken time: 614.10 ms
+ 141.101.90.96 is reachable, taken time: 122.95 ms
+ 195.72.120.33 is reachable, taken time: 126.92 ms
+ 185.18.139.126 is reachable, taken time: 124.54 ms
+ 104.17.157.36 is reachable, taken time: 21.00 ms
+ 23.227.38.74 is reachable, taken time: 16.28 ms
+
+ ----   2024-10-12 14:26:02 ---- 
+ 160.75.25.62 is reachable, taken time: 18.76 ms
+ 185.45.67.130 is reachable, taken time: 48.00 ms
+ 185.104.182.64 is reachable, taken time: 784.85 ms
+ 79.139.60.97 is reachable, taken time: 64.05 ms
+ 85.239.69.14 is reachable, taken time: 317.74 ms
+ 141.101.90.96 is reachable, taken time: 116.88 ms
+ 195.72.120.33 is reachable, taken time: 142.69 ms
+ 185.18.139.126 is reachable, taken time: 133.31 ms
+ 104.17.157.36 is reachable, taken time: 18.85 ms
+ 23.227.38.74 is reachable, taken time: 15.34 ms
+
+ ----   2024-10-12 14:28:15 ---- 
+ 160.75.25.62 is reachable, taken time: 16.66 ms
+ 185.45.67.130 is reachable, taken time: 50.00 ms
+ 185.104.182.64 is reachable, taken time: 872.72 ms
+ 79.139.60.97 is reachable, taken time: 56.77 ms
+ 85.239.69.14 is reachable, taken time: 343.31 ms
+ 141.101.90.96 is reachable, taken time: 117.47 ms
+ 195.72.120.33 is reachable, taken time: 130.41 ms
+ 185.18.139.126 is reachable, taken time: 123.83 ms
+ 104.17.157.36 is reachable, taken time: 17.03 ms
+ 23.227.38.74 is reachable, taken time: 16.62 ms
+
+ ----   2024-10-12 14:30:13 ---- 
+ 160.75.25.62 is reachable, taken time: 18.26 ms
+ 185.45.67.130 is reachable, taken time: 50.71 ms
+ 185.104.182.64 is reachable, taken time: 767.87 ms
+ 79.139.60.97 is reachable, taken time: 116.35 ms
+ 85.239.69.14 is reachable, taken time: 320.63 ms
+ 141.101.90.96 is reachable, taken time: 125.95 ms
+ 195.72.120.33 is reachable, taken time: 129.83 ms
+ 185.18.139.126 is reachable, taken time: 134.96 ms
+ 104.17.157.36 is reachable, taken time: 17.16 ms
+ 23.227.38.74 is reachable, taken time: 15.10 ms
+
+ ----   2024-10-12 14:32:07 ---- 
+ 160.75.25.62 is reachable, taken time: 12.09 ms
+ 185.45.67.130 is reachable, taken time: 44.99 ms
+ 185.104.182.64 is reachable, taken time: 787.71 ms
+ 79.139.60.97 is reachable, taken time: 66.42 ms
+ 85.239.69.14 is reachable, taken time: 457.07 ms
+ 141.101.90.96 is reachable, taken time: 120.74 ms
+ 195.72.120.33 is reachable, taken time: 127.82 ms
+ 185.18.139.126 is reachable, taken time: 123.18 ms
+ 104.17.157.36 is reachable, taken time: 16.52 ms
+ 23.227.38.74 is reachable, taken time: 14.65 ms
+
+ ----   2024-10-12 14:34:18 ---- 
+ 160.75.25.62 is reachable, taken time: 18.29 ms
+ 185.45.67.130 is reachable, taken time: 45.93 ms
+ 185.104.182.64 is reachable, taken time: 822.48 ms
+ 79.139.60.97 is reachable, taken time: 57.87 ms
+ 85.239.69.14 is reachable, taken time: 343.83 ms
+ 141.101.90.96 is reachable, taken time: 120.46 ms
+ 195.72.120.33 is reachable, taken time: 129.68 ms
+ 185.18.139.126 is reachable, taken time: 134.69 ms
+ 104.17.157.36 is reachable, taken time: 19.30 ms
+ 23.227.38.74 is reachable, taken time: 15.90 ms
+
+ ----   2024-10-12 14:36:23 ---- 
+ 160.75.25.62 is reachable, taken time: 17.21 ms
+ 185.45.67.130 is reachable, taken time: 46.77 ms
+ 185.104.182.64 is reachable, taken time: 817.02 ms
+ 79.139.60.97 is reachable, taken time: 67.80 ms
+ 85.239.69.14 is reachable, taken time: 317.18 ms
+ 141.101.90.96 is reachable, taken time: 119.26 ms
+ 195.72.120.33 is reachable, taken time: 128.22 ms
+ 185.18.139.126 is reachable, taken time: 147.03 ms
+ 104.17.157.36 is reachable, taken time: 17.65 ms
+ 23.227.38.74 is reachable, taken time: 16.25 ms
+
+ ----   2024-10-12 14:38:11 ---- 
+ 160.75.25.62 is reachable, taken time: 14.80 ms
+ 185.45.67.130 is reachable, taken time: 42.83 ms
+ 185.104.182.64 is reachable, taken time: 843.50 ms
+ 79.139.60.97 is reachable, taken time: 73.20 ms
+ 85.239.69.14 is reachable, taken time: 350.21 ms
+ 141.101.90.96 is reachable, taken time: 120.44 ms
+ 195.72.120.33 is reachable, taken time: 126.71 ms
+ 185.18.139.126 is reachable, taken time: 130.74 ms
+ 104.17.157.36 is reachable, taken time: 18.47 ms
+ 23.227.38.74 is reachable, taken time: 13.61 ms
+
+ ----   2024-10-12 14:40:05 ---- 
+ 160.75.25.62 is reachable, taken time: 13.04 ms
+ 185.45.67.130 is reachable, taken time: 47.83 ms
+ 185.104.182.64 is reachable, taken time: 861.21 ms
+ 79.139.60.97 is reachable, taken time: 64.45 ms
+ 85.239.69.14 is reachable, taken time: 577.49 ms
+ 141.101.90.96 is reachable, taken time: 116.48 ms
+ 195.72.120.33 is reachable, taken time: 127.48 ms
+ 185.18.139.126 is reachable, taken time: 133.31 ms
+ 104.17.157.36 is reachable, taken time: 14.52 ms
+ 23.227.38.74 is reachable, taken time: 14.21 ms
+
+ ----   2024-10-12 14:42:22 ---- 
+ 160.75.25.62 is reachable, taken time: 17.56 ms
+ 185.45.67.130 is reachable, taken time: 47.19 ms
+ 185.104.182.64 is reachable, taken time: 888.69 ms
+ 79.139.60.97 is reachable, taken time: 64.53 ms
+ 85.239.69.14 is reachable, taken time: 331.85 ms
+ 141.101.90.96 is reachable, taken time: 140.79 ms
+ 195.72.120.33 is reachable, taken time: 130.66 ms
+ 185.18.139.126 is reachable, taken time: 132.80 ms
+ 104.17.157.36 is reachable, taken time: 16.00 ms
+ 23.227.38.74 is reachable, taken time: 17.14 ms
+
+ ----   2024-10-12 21:24:25 ---- 
+ 160.75.25.62 is reachable, taken time: 13.41 ms
+ 185.45.67.130 is reachable, taken time: 46.62 ms
+ 185.104.182.64 is reachable, taken time: 1326.09 ms
+ 79.139.60.97 is reachable, taken time: 59.60 ms
+ 85.239.69.14 is reachable, taken time: 550.43 ms
+ 141.101.90.96 is reachable, taken time: 118.07 ms
+ 195.72.120.33 is reachable, taken time: 126.88 ms
+ 185.18.139.126 is reachable, taken time: 122.96 ms
+ 104.17.157.36 is reachable, taken time: 14.80 ms
+ 23.227.38.74 is reachable, taken time: 19.09 ms
+
+ ----   2024-10-12 21:24:39 ---- 
+ 160.75.25.62 is reachable, taken time: 13.49 ms
+ 185.45.67.130 is reachable, taken time: 47.09 ms
+ 185.104.182.64 is reachable, taken time: 920.16 ms
+ 79.139.60.97 is reachable, taken time: 59.53 ms
+ 85.239.69.14 is reachable, taken time: 326.65 ms
+ 141.101.90.96 is reachable, taken time: 120.99 ms
+ 195.72.120.33 is reachable, taken time: 130.35 ms
+ 185.18.139.126 is reachable, taken time: 123.37 ms
+ 104.17.157.36 is reachable, taken time: 18.58 ms
+ 23.227.38.74 is reachable, taken time: 16.70 ms
+
+ ----   2024-10-12 21:24:42 ---- 
+ 160.75.25.62 is reachable, taken time: 13.47 ms
+ 185.45.67.130 is reachable, taken time: 49.20 ms
+ 185.104.182.64 is reachable, taken time: 858.76 ms
+ 79.139.60.97 is reachable, taken time: 67.64 ms
+ 85.239.69.14 is reachable, taken time: 317.71 ms
+ 141.101.90.96 is reachable, taken time: 118.11 ms
+ 195.72.120.33 is reachable, taken time: 128.27 ms
+ 185.18.139.126 is reachable, taken time: 132.80 ms
+ 104.17.157.36 is reachable, taken time: 17.69 ms
+ 23.227.38.74 is reachable, taken time: 16.77 ms
+
+ ----   2024-10-12 21:24:46 ---- 
+ 160.75.25.62 is reachable, taken time: 16.33 ms
+ 185.45.67.130 is reachable, taken time: 46.24 ms
+ 185.104.182.64 is reachable, taken time: 846.02 ms
+ 79.139.60.97 is reachable, taken time: 63.68 ms
+ 85.239.69.14 is reachable, taken time: 336.40 ms
+ 141.101.90.96 is reachable, taken time: 116.81 ms
+ 195.72.120.33 is reachable, taken time: 124.53 ms
+ 185.18.139.126 is reachable, taken time: 122.87 ms
+ 104.17.157.36 is reachable, taken time: 17.36 ms
+ 23.227.38.74 is reachable, taken time: 16.89 ms
+
+ ----   2024-10-12 21:24:48 ---- 
+ 160.75.25.62 is reachable, taken time: 11.96 ms
+ 185.45.67.130 is reachable, taken time: 46.86 ms
+ 185.104.182.64 is reachable, taken time: 758.88 ms
+ 79.139.60.97 is reachable, taken time: 67.34 ms
+ 85.239.69.14 is reachable, taken time: 349.85 ms
+ 141.101.90.96 is reachable, taken time: 120.54 ms
+ 195.72.120.33 is reachable, taken time: 125.79 ms
+ 185.18.139.126 is reachable, taken time: 131.65 ms
+ 104.17.157.36 is reachable, taken time: 17.36 ms
+ 23.227.38.74 is reachable, taken time: 16.99 ms
+
+ ----   2024-10-12 21:24:51 ---- 
+ 160.75.25.62 is reachable, taken time: 13.02 ms
+ 185.45.67.130 is reachable, taken time: 46.61 ms
+ 185.104.182.64 is reachable, taken time: 794.39 ms
+ 79.139.60.97 is reachable, taken time: 67.95 ms
+ 85.239.69.14 is reachable, taken time: 311.18 ms
+ 141.101.90.96 is reachable, taken time: 128.10 ms
+ 195.72.120.33 is reachable, taken time: 123.98 ms
+ 185.18.139.126 is reachable, taken time: 132.51 ms
+ 104.17.157.36 is reachable, taken time: 16.07 ms
+ 23.227.38.74 is reachable, taken time: 16.40 ms
+
+ ----   2024-10-12 21:24:55 ---- 
+ 160.75.25.62 is reachable, taken time: 13.44 ms
+ 185.45.67.130 is reachable, taken time: 46.83 ms
+ 185.104.182.64 is reachable, taken time: 843.45 ms
+ 79.139.60.97 is reachable, taken time: 69.02 ms
+ 85.239.69.14 is reachable, taken time: 319.81 ms
+ 141.101.90.96 is reachable, taken time: 132.43 ms
+ 195.72.120.33 is reachable, taken time: 126.07 ms
+ 185.18.139.126 is reachable, taken time: 129.92 ms
+ 104.17.157.36 is reachable, taken time: 16.17 ms
+ 23.227.38.74 is reachable, taken time: 15.48 ms
+
+ ----   2024-10-12 21:24:58 ---- 
+ 160.75.25.62 is reachable, taken time: 12.09 ms
+ 185.45.67.130 is reachable, taken time: 45.55 ms
+ 185.104.182.64 is reachable, taken time: 810.00 ms
+ 79.139.60.97 is reachable, taken time: 68.67 ms
+ 85.239.69.14 is reachable, taken time: 320.34 ms
+ 141.101.90.96 is reachable, taken time: 122.59 ms
+ 195.72.120.33 is reachable, taken time: 126.74 ms
+ 185.18.139.126 is reachable, taken time: 131.47 ms
+ 104.17.157.36 is reachable, taken time: 16.68 ms
+ 23.227.38.74 is reachable, taken time: 15.61 ms
+
+ ----   2024-10-12 21:25:02 ---- 
+ 160.75.25.62 is reachable, taken time: 16.01 ms
+ 185.45.67.130 is reachable, taken time: 47.08 ms
+ 185.104.182.64 is reachable, taken time: 882.38 ms
+ 79.139.60.97 is reachable, taken time: 67.11 ms
+ 85.239.69.14 is reachable, taken time: 314.59 ms
+ 141.101.90.96 is reachable, taken time: 123.59 ms
+ 195.72.120.33 is reachable, taken time: 126.95 ms
+ 185.18.139.126 is reachable, taken time: 130.48 ms
+ 104.17.157.36 is reachable, taken time: 16.43 ms
+ 23.227.38.74 is reachable, taken time: 16.34 ms
+
+ ----   2024-10-12 21:25:05 ---- 
+ 160.75.25.62 is reachable, taken time: 11.88 ms
+ 185.45.67.130 is reachable, taken time: 46.43 ms
+ 185.104.182.64 is reachable, taken time: 776.00 ms
+ 79.139.60.97 is reachable, taken time: 58.05 ms
+ 85.239.69.14 is reachable, taken time: 333.23 ms
+ 141.101.90.96 is reachable, taken time: 118.07 ms
+ 195.72.120.33 is reachable, taken time: 127.60 ms
+ 185.18.139.126 is reachable, taken time: 123.60 ms
+ 104.17.157.36 is reachable, taken time: 17.16 ms
+ 23.227.38.74 is reachable, taken time: 16.99 ms
+
+
